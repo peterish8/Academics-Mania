@@ -20,6 +20,20 @@ Welcome to **Academics Mania** — a comprehensive collection of study notes, ch
 
 ---
 
+## 🔧 Obsidian Plugins (Required for Running Code)
+
+| Plugin | Author | Purpose | Install |
+|--------|--------|---------|---------|
+| **Execute Code** | Tim Wibiral | Run Python code in Obsidian | Settings → Community Plugins → Browse → "Execute Code" |
+| **Dataview** | Michael Brenan | Query vault data | Settings → Community Plugins → Browse → "Dataview" |
+
+**Setup Execute Code:**
+1. Settings → Community Plugins → Turn OFF "Restricted Mode"
+2. Browse → Search "Execute Code" by **Tim Wibiral** → Install → Enable
+3. Settings → Execute Code → Python path: `python` or full path
+
+---
+
 ## 📂 Repository Structure
 
 ```

@@ -154,12 +154,12 @@ Module 12 → Async JavaScript
 ```
 
 ### 📊 2. Data Structures & Algorithms
-> With 65+ practice problems! 💪
+> With **68 LeetCode practice problems** with runnable Python code! 💪
 
-- Arrays & Searching
-- Strings & Sorting
-- Linked Lists
-- Problem-solving patterns
+- Module 1: Arrays (28 questions)
+- Module 2: Strings & Sorting (24 questions)
+- Module 3: Searching & Linked List (16 questions)
+- **Practice Questions folder** — Click Run to test your solutions!
 
 ### 🔢 3. Introduction to Programming
 > 28 comprehensive study files

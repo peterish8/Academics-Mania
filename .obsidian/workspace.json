@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "1f6eac55ce886501",
+    "type": "split",
+    "children": [
+      {
+        "id": "f03e6f1428687ef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e11023978f4ff2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays/09-0349-Intersection-of-Two-Arrays.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-0349-Intersection-of-Two-Arrays"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a42cb1d2d85fcf27",
+    "type": "split",
+    "children": [
+      {
+        "id": "24dd24ed0b3dade3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4013236ea68187c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc92c829d7044cbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7971b9a76f3adfb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0fbabb2cdde300d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bb88870bcb9a092",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae1fbc0c216f1858",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ed89981876c2a5a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cc6aa27e64e36038",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9333abe39afffee1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "dcf0591638d4b3fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dcf0591638d4b3fb",
+  "lastOpenFiles": [
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/22-1781-Sum-of-Beauty.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/21-1394-Lucky-Integer.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/20-1207-Unique-Occurrences.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/19-0451-Sort-By-Frequency.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/18-0442-Find-All-Duplicates.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/17-0128-Longest-Consecutive-Sequence.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/16-0049-Group-Anagrams.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/15-0003-Longest-Substring-No-Repeat.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/14-0172-Factorial-Trailing-Zeroes.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/13-0367-Valid-Perfect-Square.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/12-0509-Fibonacci-Number.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/11-0412-Fizz-Buzz.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/10-0387-First-Unique-Character.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/09-0205-Isomorphic-Strings.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/08-0242-Valid-Anagram.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/07-0345-Reverse-Vowels.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/06-0344-Reverse-String.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/05-0125-Valid-Palindrome.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/04-0058-Length-Last-Word.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/03-0014-Longest-Common-Prefix.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/02-0013-Roman-to-Integer.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/01-0009-Palindrome-Number.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays/28-3658-GCD-Odd-Even-Sums.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays/27-2529-Maximum-Count-Pos-Neg.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays/26-2154-Keep-Multiplying-By-Two.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays/25-2149-Rearrange-By-Sign.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList",
+    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting",
+    "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays",
+    "Sem Exam/2-DSA/Practice Questions",
+    "2. DSA-Python-Course/Practice Questions/Module-3-Searching-LinkedList",
+    "2. DSA-Python-Course/Practice Questions/Module-2-Strings-Sorting",
+    "2. DSA-Python-Course/Practice Questions/Module-1-Arrays",
+    "2. DSA-Python-Course/Practice Questions",
+    "Sem Exam/1-Frontend-Dev/Sample Paper/Questions",
+    "Sem Exam/1-Frontend-Dev/Sample Paper",
+    "Untitled.canvas"
+  ]
+}

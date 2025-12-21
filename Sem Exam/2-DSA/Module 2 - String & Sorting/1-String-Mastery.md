@@ -12,16 +12,17 @@
 **Palindrome**: Reads same forwards and backwards ("racecar").
 ```python
 def isPalindrome(s):
-    # Method 1: Slicing (Easy)
-    return s == s[::-1]
-
-    # Method 2: Two Pointers (Interview Safe)
+    # Two Pointers (Interview Safe)
     l, r = 0, len(s) - 1
     while l < r:
         if s[l] != s[r]: return False
         l += 1
         r -= 1
     return True
+
+# TEST
+print("racecar:", isPalindrome("racecar"))
+print("hello:", isPalindrome("hello"))
 ```
 
 ---
@@ -30,11 +31,34 @@ def isPalindrome(s):
 
 **Anagram**: Same characters, different order ("listen" -> "silent").
 ```python
-from collections import Counter
-
 def isAnagram(s1, s2):
-    return Counter(s1) == Counter(s2) # O(n) Time, O(1) Space (26 chars)
+    # Quick check: different lengths can't be anagrams
+    if len(s1) != len(s2):
+        return False
+    
+    # Build frequency map for s1
+    count = {}
+    for char in s1:
+        count[char] = count.get(char, 0) + 1
+    
+    # Subtract counts using s2
+    for char in s2:
+        if char not in count:
+            return False
+        count[char] -= 1
+        if count[char] < 0:
+            return False
+    
+    return True
+
+# TEST
+print("listen, silent:", isAnagram("listen", "silent"))
+print("hello, world:", isAnagram("hello", "world"))
 ```
+
+**Why `count.get(char, 0)`?**
+- Returns 0 if char not in dict (avoids KeyError)
+- Cleaner than `if char in count` check
 
 ---
 

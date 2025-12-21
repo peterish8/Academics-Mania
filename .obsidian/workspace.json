@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sem Exam/2-DSA/Module 2 - String & Sorting/1-String-Mastery.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-String-Mastery"
+            }
+          },
+          {
+            "id": "87a67d3baedc2013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Sem Exam/2-DSA/DSA-Hub.md",
                 "mode": "preview",
                 "source": false
@@ -140,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem Exam/2-DSA/DSA-Hub.md",
+                "file": "Sem Exam/2-DSA/Module 2 - String & Sorting/1-String-Mastery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DSA-Hub"
+              "title": "Outline of 1-String-Mastery"
             }
           },
           {
@@ -180,6 +194,20 @@
   },
   "active": "2e11023978f4ff2e",
   "lastOpenFiles": [
+    "Sem Exam/2-DSA/DSA-Hub.md",
+    "Sem Exam/2-DSA/Module 2 - String & Sorting/README.md",
+    "Sem Exam/2-DSA/Module 2 - String & Sorting/1-String-Mastery.md",
+    "Sem Exam/2-DSA/Module 1 - Intro & Arrays/README.md",
+    "Sem Exam/2-DSA/Module 1 - Intro & Arrays/7-Frequency-Map.md",
+    "Sem Exam/2-DSA/Module 1 - Intro & Arrays/6-Two-Pointer-Technique.md",
+    "Sem Exam/2-DSA/Module 1 - Intro & Arrays/5-Prefix-Sum.md",
+    "Sem Exam/2-DSA/Module 1 - Intro & Arrays/4-Max-Subarray-Kadane.md",
+    "Sem Exam/2-DSA/Module 1 - Intro & Arrays/3-Big-O-Analysis.md",
+    "Sem Exam/2-DSA/Module 1 - Intro & Arrays/2-String-Immutability-Slicing.md",
+    "Sem Exam/2-DSA/Module 1 - Intro & Arrays/1-Python-Lists-Memory.md",
+    "Sem Exam/2-DSA/Module 2 - String & Sorting/3-Sorting-Basics.md",
+    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/07-0081-Search-Rotated-II.md",
+    "Sem Exam/2-DSA/Module 3 - Searching & Linked List/2-Sorting-Analysis.md",
     "Sem Exam/2-DSA/README.md",
     "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays/01-1480-Running-Sum-of-1D-Array.md",
     "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays/09-0349-Intersection-of-Two-Arrays.md",
@@ -192,20 +220,6 @@
     "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/12-0875-Koko-Eating-Bananas.md",
     "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/11-0852-Peak-Index-Mountain.md",
     "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/10-0167-Two-Sum-II.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/09-0162-Find-Peak-Element.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/08-0154-Find-Minimum-Rotated-II.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/06-0153-Find-Minimum-Rotated.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/05-0034-Find-First-Last-Position.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/04-0033-Search-Rotated-Array.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/03-0069-Sqrt.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/02-0035-Search-Insert-Position.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/01-0704-Binary-Search.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/24-1979-GCD-of-Array.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/23-1941-Equal-Occurrences.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/22-1781-Sum-of-Beauty.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/21-1394-Lucky-Integer.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/20-1207-Unique-Occurrences.md",
-    "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting/19-0451-Sort-By-Frequency.md",
     "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList",
     "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting",
     "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays",

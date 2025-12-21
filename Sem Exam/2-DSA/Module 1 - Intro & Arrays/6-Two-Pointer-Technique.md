@@ -24,6 +24,13 @@ def twoSumSorted(arr, target):
             l += 1 # We need more! Move left up
         else:
             r -= 1 # We need less! Move right down
+    return None
+
+# TEST
+arr = [1, 2, 3, 4, 6]
+target = 6
+print("Array:", arr, "Target:", target)
+print("Indices:", twoSumSorted(arr, target))
 ```
 
 ---

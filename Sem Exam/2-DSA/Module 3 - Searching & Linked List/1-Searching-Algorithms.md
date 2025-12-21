@@ -24,6 +24,12 @@ def binarySearch(arr, target):
             r = mid - 1 # Look Left
             
     return -1 # Not found
+
+# TEST
+arr = [1, 3, 5, 7, 9, 11, 13]
+print("Array:", arr)
+print("Find 7:", binarySearch(arr, 7))
+print("Find 4:", binarySearch(arr, 4))
 ```
 
 ---

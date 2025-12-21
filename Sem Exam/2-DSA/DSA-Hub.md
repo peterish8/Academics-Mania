@@ -19,19 +19,19 @@
 
 ### **Module 1: Introduction to DSA and Arrays**
 - [x] [[Module 1 - Intro & Arrays/README|Module Overview]] 🏁
-- [ ] [[Module 1 - Intro & Arrays/1-Python-Lists-Memory|Python Lists & Memory]] 🧠
-- [ ] [[Module 1 - Intro & Arrays/2-String-Immutability-Slicing|Strings: Immutability & Slicing]] 🧶
-- [ ] [[Module 1 - Intro & Arrays/3-Big-O-Analysis|Intro to Big-O & Complexity]] ⏱️
-- [ ] [[Module 1 - Intro & Arrays/4-Max-Subarray-Kadane|Max Subarray (Kadane's Algorithm)]] 📈
-- [ ] [[Module 1 - Intro & Arrays/5-Prefix-Sum|Prefix Sum Technique]] ➕
-- [ ] [[Module 1 - Intro & Arrays/6-Two-Pointer-Technique|Two Pointer Technique]] 👈👉
-- [ ] [[Module 1 - Intro & Arrays/7-Frequency-Map|Frequency Maps]] 🗺️
+- [x] [[Module 1 - Intro & Arrays/1-Python-Lists-Memory|Python Lists & Memory]] 🧠
+- [x] [[Module 1 - Intro & Arrays/2-String-Immutability-Slicing|Strings: Immutability & Slicing]] 🧶
+- [x] [[Module 1 - Intro & Arrays/3-Big-O-Analysis|Intro to Big-O & Complexity]] ⏱️
+- [x] [[Module 1 - Intro & Arrays/4-Max-Subarray-Kadane|Max Subarray (Kadane's Algorithm)]] 📈
+- [x] [[Module 1 - Intro & Arrays/5-Prefix-Sum|Prefix Sum Technique]] ➕
+- [x] [[Module 1 - Intro & Arrays/6-Two-Pointer-Technique|Two Pointer Technique]] 👈👉
+- [x] [[Module 1 - Intro & Arrays/7-Frequency-Map|Frequency Maps]] 🗺️
 
 ### **Module 2: String and Sorting**
-- [ ] [[Module 2 - String & Sorting/README|Module Overview]] 🏁
+- [x] [[Module 2 - String & Sorting/README|Module Overview]] 🏁
 - [ ] [[Module 2 - String & Sorting/1-String-Mastery|String Mastery (Anagrams, Palindromes)]] 🔡
 - [ ] [[Module 2 - String & Sorting/2-Math-Fundamentals|Math Fundamentals (GCD, Primes, Digits)]] ➗
-- [ ] [[Module 2 - String & Sorting/3-Sorting-Basics|Basic Sorting (Bubble, Selection, Insertion)]] 🧹
+- [x] [[Module 2 - String & Sorting/3-Sorting-Basics|Basic Sorting (Bubble, Selection, Insertion)]] 🧹
 
 ### **Module 3: Searching, Time Complexity, and Linked List**
 - [ ] [[Module 3 - Searching & Linked List/README|Module Overview]] 🏁

@@ -9,6 +9,10 @@ class Node:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
+
+# TEST - Create a linked list: 1 -> 2 -> 3 -> None
+head = Node(1, Node(2, Node(3)))
+print("Linked List Created: 1 -> 2 -> 3 -> None")
 ```
 
 ---
@@ -25,10 +29,19 @@ class Node:
 
 ### **1. Traversal O(n)**
 ```python
+class Node:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
+# TEST - Traverse and print
+head = Node(1, Node(2, Node(3)))
 curr = head
+result = []
 while curr:
-    print(curr.val)
+    result.append(curr.val)
     curr = curr.next
+print("Traversal:", result)
 ```
 
 ### **2. Insertion O(1)** (If you have pointer)

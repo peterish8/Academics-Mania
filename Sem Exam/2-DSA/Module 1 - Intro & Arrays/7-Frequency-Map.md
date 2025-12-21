@@ -32,8 +32,13 @@ for num in nums:
 ### **3. `Counter` (The Pro Move) 🌟**
 ```python
 from collections import Counter
-counts = Counter(nums) 
-# Counter({1: 3, 2: 2, 3: 1})
+
+# TEST
+nums = [1, 2, 2, 3, 1, 1]
+counts = Counter(nums)
+print("Input:", nums)
+print("Frequency Map:", dict(counts))
+print("Most Common:", counts.most_common(2))
 ```
 
 ---

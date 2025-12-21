@@ -12,6 +12,11 @@
 > Iterate and flip the arrows backwards.
 
 ```python
+class Node:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
 def reverseList(head):
     prev, curr = None, head
     while curr:
@@ -20,6 +25,19 @@ def reverseList(head):
         prev = curr       # Move prev
         curr = temp       # Move curr
     return prev # New Head
+
+def printList(head):
+    result = []
+    while head:
+        result.append(head.val)
+        head = head.next
+    return result
+
+# TEST
+head = Node(1, Node(2, Node(3, Node(4))))
+print("Original:", printList(head))
+reversed_head = reverseList(head)
+print("Reversed:", printList(reversed_head))
 ```
 
 ---

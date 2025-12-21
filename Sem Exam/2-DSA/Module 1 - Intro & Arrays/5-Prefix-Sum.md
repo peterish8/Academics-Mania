@@ -25,9 +25,14 @@ prefix[0] = nums[0]
 for i in range(1, len(nums)):
     prefix[i] = prefix[i-1] + nums[i]
 
+# TEST
+print("Original:", nums)
+print("Prefix:  ", prefix)
+
 # Query Range [1, 3] (Values 2, 3, 4 -> Sum 9)
 L, R = 1, 3
-sum_range = prefix[R] - prefix[L-1] # 10 - 1 = 9
+sum_range = prefix[R] - prefix[L-1]
+print(f"Sum from index {L} to {R}:", sum_range)
 ```
 > **Note**: If `L=0`, formula is just `prefix[R]`.
 

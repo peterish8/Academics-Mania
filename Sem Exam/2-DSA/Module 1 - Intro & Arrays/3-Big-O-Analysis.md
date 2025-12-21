@@ -9,13 +9,13 @@
 
 ## 📈 **Common Complexities (The Hierarchy)**
 
-| Notation | Name | Analogy 🚗 | Example |
-|----------|------|------------|---------|
-| **O(1)** | Constant | Teleporting ⚡ | Access `arr[5]` |
-| **O(log n)** | Logarithmic | Looking up a word in a Dictionary 📖 | Binary Search |
-| **O(n)** | Linear | Reading a book page by page 🚶 | Loop through list |
-| **O(n log n)** | Log Linear | Sorting a deck of cards 🃏 | Merit Sort, Quick Sort |
-| **O(n²)** | Quadratic | Checking every person against every other person 🤝 | Nested Loops |
+| Notation       | Name        | Analogy 🚗                                          | Example                                   |
+| -------------- | ----------- | --------------------------------------------------- | ----------------------------------------- |
+| **O(1)**       | Constant    | Teleporting ⚡                                       | Access `arr[5]`                           |
+| **O(log n)**   | Logarithmic | Looking up a word in a Dictionary 📖                | Binary Search                             |
+| **O(n)**       | Linear      | Reading a book page by page 🚶                      | Loop through list                         |
+| **O(n log n)** | Log Linear  | Sorting a deck of cards 🃏                          | Merit Sort, <br>Quick Sort, <br>Time sort |
+| **O(n²)**      | Quadratic   | Checking every person against every other person 🤝 | Nested Loops                              |
 
 ---
 

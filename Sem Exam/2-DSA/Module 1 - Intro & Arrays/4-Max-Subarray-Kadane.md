@@ -53,6 +53,11 @@ def maxSubArray(nums):
             global_max = current_sum
             
     return global_max
+
+# TEST
+nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+print("Input:", nums)
+print("Max Subarray Sum:", maxSubArray(nums))
 ```
 
 ---

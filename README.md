@@ -156,27 +156,33 @@ Module 12 → Async JavaScript
 ### 📊 2. Data Structures & Algorithms
 > With **68 LeetCode practice problems** with runnable Python code! 💪
 
-- Module 1: Arrays (28 questions)
-- Module 2: Strings & Sorting (24 questions)
-- Module 3: Searching & Linked List (16 questions)
-- **Practice Questions folder** — Click Run to test your solutions!
+```
+Module 1  → Arrays (28 questions)
+Module 2  → Strings & Sorting (24 questions)
+Module 3  → Searching & Linked List (16 questions)
+Practice  → 68 Runnable LeetCode Solutions
+```
 
 ### 🔢 3. Introduction to Programming
 > 28 comprehensive study files
 
-- Python Basics (Variables, Data Types, Operators)
-- Core Python (Loops, Functions, Data Structures)
-- Object-Oriented Programming (Classes, Inheritance)
-- Version Control (Git & GitHub)
+```
+Module 1  → Python Basics (Variables, Data Types, Operators)
+Module 2  → Core Python (Loops, Functions, Data Structures)
+Module 3  → Object-Oriented Programming (Classes, Inheritance)
+Module 4  → Version Control (Git & GitHub)
+```
 
 ### 📐 4. Mathematics for AI/ML
 > 21 files covering essential math concepts
 
-- Logic, Sets & Critical Thinking
-- Data Collection & Tabulation
-- Measures of Central Tendency (Mean, Median, Mode)
-- Measures of Dispersion (Variance, Std Dev)
-- Probability Fundamentals
+```
+Module 1  → Logic, Sets & Critical Thinking
+Module 2  → Data Collection & Tabulation
+Module 3  → Measures of Central Tendency (Mean, Median, Mode)
+Module 4  → Measures of Dispersion (Variance, Std Dev)
+Module 5  → Probability Fundamentals
+```
 
 ---
 

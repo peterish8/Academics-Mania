@@ -249,7 +249,9 @@ code .
 
 ---
 
-## 🌐 Socials:
+## 📫 Let's Connect!
+
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourboy_prats) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prats-dhans) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pratzyhere) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yourboy_prats) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:selftrust.6886@gmail.com)
 
 ---

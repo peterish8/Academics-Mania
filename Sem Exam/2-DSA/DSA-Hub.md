@@ -18,7 +18,7 @@
 ## 📚 **Checklist**
 
 ### **Module 1: Introduction to DSA and Arrays**
-- [ ] [[Module 1 - Intro & Arrays/README|Module Overview]] 🏁
+- [x] [[Module 1 - Intro & Arrays/README|Module Overview]] 🏁
 - [ ] [[Module 1 - Intro & Arrays/1-Python-Lists-Memory|Python Lists & Memory]] 🧠
 - [ ] [[Module 1 - Intro & Arrays/2-String-Immutability-Slicing|Strings: Immutability & Slicing]] 🧶
 - [ ] [[Module 1 - Intro & Arrays/3-Big-O-Analysis|Intro to Big-O & Complexity]] ⏱️

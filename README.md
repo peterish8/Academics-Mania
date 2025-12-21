@@ -164,8 +164,19 @@ Module 12 → Async JavaScript
 ### 🔢 3. Introduction to Programming
 > 28 comprehensive study files
 
+- Python Basics (Variables, Data Types, Operators)
+- Core Python (Loops, Functions, Data Structures)
+- Object-Oriented Programming (Classes, Inheritance)
+- Version Control (Git & GitHub)
+
 ### 📐 4. Mathematics for AI/ML
 > 21 files covering essential math concepts
+
+- Logic, Sets & Critical Thinking
+- Data Collection & Tabulation
+- Measures of Central Tendency (Mean, Median, Mode)
+- Measures of Dispersion (Variance, Std Dev)
+- Probability Fundamentals
 
 ---
 

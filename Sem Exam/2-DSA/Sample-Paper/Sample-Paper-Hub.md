@@ -2,22 +2,24 @@
 
 > [!WARNING] **Exam Focus!** These are the topics sir said will come. Master these!
 
----
-
-## 📊 Progress Tracker
-
-**Completed:** 0 / 9 topics
-
-```
-[░░░░░░░░░░] 0%
-```
+> [!INFO] **Sample Paper Progress Tracker**
+> 
+> ```dataviewjs
+> const tasks = dv.current().file.tasks;
+> const completed = tasks.filter(t => t.completed).length;
+> const total = tasks.length;
+> const percent = total === 0 ? 0 : Math.round((completed / total) * 100);
+> 
+> dv.paragraph(`**Status:** ${completed}/${total} Topics Completed (**${percent}%**)`);
+> dv.paragraph(`<div style="width: 100%; background-color: #e0e0e0; border-radius: 10px; height: 20px; box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);"><div style="width: ${percent}%; background-color: #4caf50; height: 100%; border-radius: 10px; transition: width 0.5s ease;"></div></div>`);
+> ```
 
 ---
 
 ## 📋 Topics Checklist
 
 ### 1️⃣ Prefix Sum & Two Pointers
-- [ ] Running Sum of 1D Array
+- [x] Running Sum of 1D Array
 - [ ] Subarray Sum Equals K
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Two Sum II (Sorted Array)
@@ -96,30 +98,16 @@
 
 ## 🚀 Study Order (By Priority)
 
-| Time | Topic | Status |
-|------|-------|--------|
-| 20 min | 🔴 Sorting Algorithms | ⬜ |
-| 20 min | 🔴 Binary Search Variations | ⬜ |
-| 25 min | 🔴 Linked List Operations | ⬜ |
-| 10 min | 🟡 Kadane's Algorithm | ⬜ |
-| 15 min | 🟡 Prefix Sum & Two Pointers | ⬜ |
-| 10 min | 🟢 String Methods | ⬜ |
-| 10 min | 🟢 Dict vs Set | ⬜ |
+| Time | Topic | 
+|------|-------|
+| 20 min | 🔴 Sorting Algorithms |
+| 20 min | 🔴 Binary Search Variations |
+| 25 min | 🔴 Linked List Operations |
+| 10 min | 🟡 Kadane's Algorithm |
+| 15 min | 🟡 Prefix Sum & Two Pointers |
+| 10 min | 🟢 String Methods |
+| 10 min | 🟢 Dict vs Set |
 
 ---
-
-## 🧠 Pattern Cheat Sheet
-
-| Pattern | When to Use |
-|---------|-------------|
-| **Two Pointers** | Sorted array, palindrome |
-| **HashMap** | Frequency, mapping |
-| **Binary Search** | Sorted + find |
-| **Kadane's** | Max subarray |
-| **Slow-Fast** | Middle, cycle detection |
-
----
-
-**Last Updated:** Check boxes as you complete! ✅
 
 Good luck! 🍀

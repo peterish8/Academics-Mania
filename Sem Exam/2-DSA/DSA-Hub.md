@@ -29,13 +29,13 @@
 
 ### **Module 2: String and Sorting**
 - [x] [[Module 2 - String & Sorting/README|Module Overview]] 🏁
-- [ ] [[Module 2 - String & Sorting/1-String-Mastery|String Mastery (Anagrams, Palindromes)]] 🔡
-- [ ] [[Module 2 - String & Sorting/2-Math-Fundamentals|Math Fundamentals (GCD, Primes, Digits)]] ➗
+- [x] [[Module 2 - String & Sorting/1-String-Mastery|String Mastery (Anagrams, Palindromes)]] 🔡
+- [x] [[Module 2 - String & Sorting/2-Math-Fundamentals|Math Fundamentals (GCD, Primes, Digits)]] ➗
 - [x] [[Module 2 - String & Sorting/3-Sorting-Basics|Basic Sorting (Bubble, Selection, Insertion)]] 🧹
 
 ### **Module 3: Searching, Time Complexity, and Linked List**
-- [ ] [[Module 3 - Searching & Linked List/README|Module Overview]] 🏁
-- [ ] [[Module 3 - Searching & Linked List/1-Searching-Algorithms|Searching (Linear, Binary)]] 🔍
+- [x] [[Module 3 - Searching & Linked List/README|Module Overview]] 🏁
+- [x] [[Module 3 - Searching & Linked List/1-Searching-Algorithms|Searching (Linear, Binary)]] 🔍
 - [ ] [[Module 3 - Searching & Linked List/2-Sorting-Analysis|Complexity & Sorting Analysis]] ⚖️
 - [ ] [[Module 3 - Searching & Linked List/3-Linked-List-Basics|Linked List Basics (Singly & Doubly)]] 🔗
 - [ ] [[Module 3 - Searching & Linked List/4-Linked-List-Problems|Advanced Linked List Problems]] 🧩

@@ -50,7 +50,6 @@ print("Sum:", largest + second_largest)
 
 ```python
 # Program to find the second largest among three numbers
-
 T = int(input())  # number of test cases
 
 for _ in range(T):
@@ -58,61 +57,23 @@ for _ in range(T):
     nums = [A, B, C]
     nums.sort()          # sort the three numbers
     print(nums[1])       # second largest is at index 1
-
-# TEST (Single input)
-A, B, C = 5, 10, 3
-nums = [A, B, C]
-nums.sort()
-print(f"Numbers: {A}, {B}, {C}")
-print(f"Sorted: {nums}")
-print(f"Second Largest: {nums[1]}")
 ```
 
 ---
 
-## 📌 Optimized Second Largest (Single Pass)
-
-> **Goal**: Find the second largest without sorting (O(n) time).
-
-```python
-def second_largest(arr):
-    if len(arr) < 2:
-        return -1
-    
-    largest = float('-inf')
-    second = float('-inf')
-    
-    for num in arr:
-        if num > largest:
-            second = largest
-            largest = num
-        elif num > second and num != largest:
-            second = num
-    
-    return second if second != float('-inf') else -1
-
-# TEST
-arr = [12, 35, 1, 10, 34, 1]
-print("Array:", arr)
-print("Second Largest:", second_largest(arr))
-```
-
----
-
-## ⏱️ Complexity Comparison
+## ⏱️ Complexity
 
 | Approach | Time | Space |
 |----------|------|-------|
 | **Sort then pick** | O(n log n) | O(1) |
-| **Single pass** | O(n) | O(1) |
 
 ---
 
 ## 🧠 Key Points
-- **Sorting approach**: Simple but O(n log n)
-- **Single pass**: Track `largest` and `second` in one loop
-- Handle duplicates: Check `num != largest` before updating second
+- **sort()** puts smallest at front, largest at end
+- `a[-1]` = largest, `a[-2]` = second largest
+- Handle duplicates by checking if `a[idx] == largest`
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+← Previous: None | [[Imp-Topics-Hub|🏠 Hub]] | Next: [[1-OOPS-Fundamentals|→]]

@@ -158,4 +158,4 @@ A ^ B = {1, 4}           Symmetric Difference
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+[[10-Dictionary|← Previous]] | [[Imp-Topics-Hub|🏠 Hub]] | [[12-Input-Methods|Next →]]

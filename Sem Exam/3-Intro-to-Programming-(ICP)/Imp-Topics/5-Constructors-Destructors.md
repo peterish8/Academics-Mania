@@ -124,4 +124,4 @@ del f                   # "File data.txt closed"
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+[[4-Types-of-Inheritance|← Previous]] | [[Imp-Topics-Hub|🏠 Hub]] | [[6-File-Handling|Next →]]

@@ -154,4 +154,4 @@ print(m.add(2, 3, 4))   # 9
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+[[2-Classes-Objects|← Previous]] | [[Imp-Topics-Hub|🏠 Hub]] | [[4-Types-of-Inheritance|Next →]]

@@ -126,4 +126,4 @@ print(book1.title)  # Advanced Python
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+[[1-OOPS-Fundamentals|← Previous]] | [[Imp-Topics-Hub|🏠 Hub]] | [[3-Four-Pillars-OOPS|Next →]]

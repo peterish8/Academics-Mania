@@ -64,4 +64,4 @@ print(rect.area())
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+[[0-Array-Problems|← Previous]] | [[Imp-Topics-Hub|🏠 Hub]] | [[2-Classes-Objects|Next →]]

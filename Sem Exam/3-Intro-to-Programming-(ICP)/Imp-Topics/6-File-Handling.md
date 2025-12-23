@@ -138,4 +138,4 @@ with open("students.txt", "r") as f:
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+[[5-Constructors-Destructors|← Previous]] | [[Imp-Topics-Hub|🏠 Hub]] | [[7-Exception-Handling|Next →]]

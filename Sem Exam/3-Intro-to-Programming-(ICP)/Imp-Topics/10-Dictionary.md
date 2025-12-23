@@ -150,4 +150,4 @@ print(val, d)  # 1, {'b': 2}
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+[[9-Tuple|← Previous]] | [[Imp-Topics-Hub|🏠 Hub]] | [[11-Set|Next →]]

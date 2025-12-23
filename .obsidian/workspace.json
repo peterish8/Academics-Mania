@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "91afdada932f4852",
+        "id": "ae6f07aebc9ed980",
         "type": "tabs",
         "children": [
           {
-            "id": "80c42a32654abc6a",
+            "id": "c7270e269b6b7981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/0-Array-Problems.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "0-Array-Problems"
+            }
+          },
+          {
+            "id": "eb73ca0f9376eb77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/0-Array-Problems.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-Array-Problems"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/0-Array-Problems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 0-Array-Problems"
             }
           },
           {
@@ -178,9 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4013236ea68187c",
+  "active": "dcf0591638d4b3fb",
   "lastOpenFiles": [
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/Imp-Topics-Hub.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/12-Input-Methods.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/0-Array-Problems.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/2-Classes-Objects.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/1-OOPS-Fundamentals.md",
+    "README.md",
     "Sem Exam/2-DSA/Sample-Paper/Sample-Paper-Hub.md",
     "Sem Exam/2-DSA/Sample-Paper/5-Binary-Search-Variations.md",
     "Sem Exam/3-Intro-to-Programming/Imp-Topics/0-Array-Problems.md",
@@ -201,11 +221,6 @@
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 4 - Version Control/4-Open-Source.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 4 - Version Control/3-Branching-Strategies.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 4 - Version Control/2-Remote-Repos.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 4 - Version Control/1-Git-Basics.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/3-Dictionaries.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 1 - Python Basics/3-Strings.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/5-File-Handling.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/4-Sets.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 4 - Version Control",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python",

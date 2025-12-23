@@ -52,7 +52,7 @@ button.clear-button {
 	color: var(--text-muted);
 	position: absolute;
 	bottom: 0;
-	left: 0;
+	right: 70px;  /* Moved to right side, offset from Run button */
 	margin: 5px;
 	padding: 5px 20px 5px 20px;
 	z-index: 100;

@@ -175,4 +175,4 @@ d.funcD()  # Own
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+[[3-Four-Pillars-OOPS|← Previous]] | [[Imp-Topics-Hub|🏠 Hub]] | [[5-Constructors-Destructors|Next →]]

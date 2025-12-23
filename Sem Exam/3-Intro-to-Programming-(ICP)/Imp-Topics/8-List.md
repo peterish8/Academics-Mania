@@ -161,4 +161,4 @@ print(lst)  # [3, 2, 1]
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+[[7-Exception-Handling|← Previous]] | [[Imp-Topics-Hub|🏠 Hub]] | [[9-Tuple|Next →]]

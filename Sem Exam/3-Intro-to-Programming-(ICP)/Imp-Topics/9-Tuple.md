@@ -145,4 +145,4 @@ x, y = get_coordinates()
 
 ---
 
-Back to: [[Imp-Topics-Hub|ICP Topics Hub]]
+[[8-List|← Previous]] | [[Imp-Topics-Hub|🏠 Hub]] | [[10-Dictionary|Next →]]

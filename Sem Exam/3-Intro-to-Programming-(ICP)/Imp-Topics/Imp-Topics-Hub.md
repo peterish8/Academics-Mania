@@ -121,6 +121,15 @@
 
 ---
 
+### 1️⃣2️⃣ Input Methods
+- [ ] input(), int(), float()
+- [ ] split() - Multiple values
+- [ ] map() + split() combo
+- [ ] Multiple test cases pattern
+→ [[12-Input-Methods|📖 Read Notes]]
+
+---
+
 ## 🚀 Study Order (By Priority)
 
 | Time | Topic | 

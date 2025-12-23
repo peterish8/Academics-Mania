@@ -227,6 +227,33 @@ code .
 
 ---
 
+## 🎯 What is a Hub?
+
+> **A Hub is a Progress Tracking Playlist for your study topics!**
+
+| Feature | Benefit |
+|---------|---------|
+| **✅ Checkboxes** | Track what you've completed |
+| **📊 Progress Bar** | Visual % completion motivates you! |
+| **📋 Ordered List** | Know exactly what to study next |
+| **🔗 Quick Links** | Click to jump to any topic instantly |
+| **🎮 Gamification** | Checking boxes feels rewarding! |
+
+**Why Hubs are Useful for Students:**
+- ✅ Never forget what you've studied vs what's left
+- 📊 Progress tracking makes you eager to complete more
+- 🎯 Perfect order from basics → advanced
+- 🧠 Reduces study anxiety - you see exactly what's remaining
+- 🏆 Every checkbox tick = dopamine hit = more motivation!
+
+**Available Hubs:**
+- `DSA-Hub.md` - Track DSA module progress
+- `Sample-Paper-Hub.md` - Track exam topics
+- `Imp-Topics-Hub.md` - Track ICP topics
+- `Practice-Questions-Hub.md` - Track LeetCode problems
+
+---
+
 ## 📐 My Styled Notes Format
 
 > **For AI Reference**: This is the standardized note-taking style used across all study materials.

@@ -246,11 +246,17 @@ code .
 - 🧠 Reduces study anxiety - you see exactly what's remaining
 - 🏆 Every checkbox tick = dopamine hit = more motivation!
 
-**Available Hubs:**
-- `DSA-Hub.md` - Track DSA module progress
-- `Sample-Paper-Hub.md` - Track exam topics
-- `Imp-Topics-Hub.md` - Track ICP topics
-- `Practice-Questions-Hub.md` - Track LeetCode problems
+**Available Hubs (7 with Progress Tracking):**
+
+| Hub | Purpose |
+|-----|---------|
+| `Sem-Exam-Hub.md` | Master hub for all semester exams |
+| `Frontend-Sem-Hub.md` | Frontend Development module |
+| `DSA-Hub.md` | Data Structures & Algorithms |
+| `Sample-Paper-Hub.md` | DSA exam sample paper topics |
+| `Imp-Topics-Hub.md` | ICP important topics |
+| `Intro-Prog-Hub.md` | Intro to Programming module |
+| `Math-AI-ML-Hub.md` | Mathematics for AI/ML |
 
 ---
 

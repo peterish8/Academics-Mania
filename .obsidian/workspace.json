@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/0-Array-Problems.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-Array-Problems"
+              "title": "README"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5004348754883
+    "width": 200
   },
   "right": {
     "id": "0fbabb2cdde300d6",
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/0-Array-Problems.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0-Array-Problems"
+              "title": "Outline of README"
             }
           },
           {
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,6 +180,7 @@
   },
   "active": "d4013236ea68187c",
   "lastOpenFiles": [
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/0-Array-Problems.md",
     "Sem Exam/2-DSA/Sample-Paper/Sample-Paper-Hub.md",
     "Sem Exam/2-DSA/Sample-Paper/5-Binary-Search-Variations.md",
     "Sem Exam/3-Intro-to-Programming/Imp-Topics/0-Array-Problems.md",
@@ -205,7 +206,6 @@
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 1 - Python Basics/3-Strings.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/5-File-Handling.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/4-Sets.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/2-Classes-Objects.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 4 - Version Control",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python",

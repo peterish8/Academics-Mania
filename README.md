@@ -271,7 +271,7 @@ code .
 | **> [!SUCCESS]** | Key definitions | `> [!SUCCESS] Definition: ...` |
 | **> [!TIP]** | Key insights | `> [!TIP] Use two pointers` |
 | **> [!WARNING]** | Important notes | `> [!WARNING] Edge case!` |
-| **Runnable Code** | Python with TEST section | `# TEST` comment + print |
+| **Runnable Code** | code with TEST section | `# TEST` comment + print |
 | **📊 Tables** | Comparisons/Summaries | Method comparison tables |
 | **🧠 Key Points** | Quick revision bullets | Memory tricks section |
 | **❓ Q&A** | Self-test questions | Collapsible answers |

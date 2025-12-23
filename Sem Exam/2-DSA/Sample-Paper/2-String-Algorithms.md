@@ -13,6 +13,8 @@
 
 ## 📌 Common String Methods
 
+> **Goal**: Learn essential string methods for manipulation and searching.
+
 ```python
 s = "Hello World"
 
@@ -41,8 +43,6 @@ print(s.upper())        # 'HELLO WORLD'
 print(s.strip())        # Remove whitespace
 print(s.startswith('He'))  # True
 print(s.endswith('ld'))    # True
-print(s.isalnum())      # False (has space)
-print(s.isalpha())      # False (has space)
 ```
 
 ---
@@ -50,6 +50,8 @@ print(s.isalpha())      # False (has space)
 ## 📌 Substring Problems
 
 ### Check if Substring Exists
+> **Goal**: Check if a smaller string exists inside a larger string.
+
 ```python
 def hasSubstring(main, sub):
     return sub in main  # O(n*m)
@@ -59,6 +61,8 @@ print(hasSubstring("hello", "ell"))  # True
 ```
 
 ### Find All Occurrences
+> **Goal**: Find all starting indices where substring appears.
+
 ```python
 def findAll(main, sub):
     indices = []
@@ -80,6 +84,8 @@ print(findAll("ababa", "aba"))  # [0, 2]
 ## 📌 Subsequence Problems
 
 ### Is Subsequence
+> **Goal**: Check if string s is a subsequence of string t (characters appear in same order but not necessarily contiguous).
+
 ```python
 def isSubsequence(s, t):
     i = 0  # Pointer for s

@@ -11,20 +11,9 @@
 
 ---
 
-## 📌 Algorithm
+## 📌 Maximum Subarray Sum
 
-```
-current_sum = max(nums[i], current_sum + nums[i])
-max_sum = max(max_sum, current_sum)
-```
-
-**In simple words:**
-- If `current_sum + nums[i]` is less than `nums[i]` alone → Reset
-- Always track the maximum seen so far
-
----
-
-## 💻 Code
+> **Goal**: Given an array that may contain negative numbers, find the maximum sum of any contiguous subarray.
 
 ```python
 def maxSubArray(nums):

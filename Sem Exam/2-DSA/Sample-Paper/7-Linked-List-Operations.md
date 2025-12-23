@@ -16,6 +16,8 @@ class Node:
 ## 📌 Singly Linked List - Insertion
 
 ### Insert at Beginning - O(1)
+> **Goal**: Add new node at the start of the list.
+
 ```python
 def insert_at_beginning(self, data):
     new_node = Node(data)
@@ -24,6 +26,8 @@ def insert_at_beginning(self, data):
 ```
 
 ### Insert at End - O(n)
+> **Goal**: Add new node at the end of the list.
+
 ```python
 def insert_at_end(self, data):
     new_node = Node(data)
@@ -37,6 +41,8 @@ def insert_at_end(self, data):
 ```
 
 ### Insert at Position k - O(k)
+> **Goal**: Insert new node at given position (0-indexed).
+
 ```python
 def insert_at_position(self, data, k):
     if k == 0:
@@ -57,6 +63,8 @@ def insert_at_position(self, data, k):
 ## 📌 Singly Linked List - Deletion
 
 ### Delete from Beginning - O(1)
+> **Goal**: Remove the first node from the list.
+
 ```python
 def delete_from_beginning(self):
     if self.head is None:
@@ -65,6 +73,8 @@ def delete_from_beginning(self):
 ```
 
 ### Delete from End - O(n)
+> **Goal**: Remove the last node from the list.
+
 ```python
 def delete_from_end(self):
     if self.head is None:
@@ -79,6 +89,8 @@ def delete_from_end(self):
 ```
 
 ### Delete from Position k - O(k)
+> **Goal**: Remove node at given position (0-indexed).
+
 ```python
 def delete_from_position(self, k):
     if self.head is None:
@@ -100,6 +112,8 @@ def delete_from_position(self, k):
 ## 📌 Linked List Problems
 
 ### Find Middle Node (Slow-Fast Pointers)
+> **Goal**: Return the middle node. For even length, return second middle.
+
 ```python
 def findMiddle(head):
     slow = fast = head
@@ -107,11 +121,11 @@ def findMiddle(head):
         slow = slow.next
         fast = fast.next.next
     return slow
-
-# TEST (Create list manually to test)
 ```
 
 ### Detect Cycle (Floyd's Algorithm)
+> **Goal**: Check if linked list has a cycle (loop).
+
 ```python
 def hasCycle(head):
     slow = fast = head

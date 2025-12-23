@@ -4,6 +4,8 @@
 
 ## 📌 Basic Binary Search
 
+> **Goal**: Find target element in a SORTED array. Return index or -1 if not found.
+
 ```python
 def binary_search(arr, target):
     left, right = 0, len(arr) - 1
@@ -27,7 +29,7 @@ print(binary_search([1, 3, 5, 7, 9], 5))  # 2
 
 ## 📌 Search Insert Position
 
-> Find index where target is OR where it should be inserted.
+> **Goal**: Find index where target is OR where it should be inserted to keep array sorted.
 
 ```python
 def searchInsert(nums, target):
@@ -53,7 +55,7 @@ print(searchInsert([1, 3, 5, 6], 2))  # 1
 
 ## 📌 Sqrt(x)
 
-> Find floor of square root.
+> **Goal**: Find floor of square root of x without using built-in sqrt function.
 
 ```python
 def mySqrt(x):
@@ -82,7 +84,7 @@ print(mySqrt(16))  # 4
 
 ## 📌 Find Peak Element
 
-> Find ANY peak (element greater than neighbors).
+> **Goal**: Find ANY element that is greater than its neighbors. Return its index.
 
 ```python
 def findPeakElement(nums):
@@ -104,6 +106,8 @@ print(findPeakElement([1, 2, 3, 1]))  # 2
 ---
 
 ## 📌 Search in Rotated Sorted Array
+
+> **Goal**: Search target in a sorted array that was rotated at some pivot. Return index or -1.
 
 ```python
 def search(nums, target):
@@ -136,6 +140,8 @@ print(search([4, 5, 6, 7, 0, 1, 2], 0))  # 4
 ---
 
 ## 📌 Find Minimum in Rotated Array
+
+> **Goal**: Find the minimum element in a rotated sorted array.
 
 ```python
 def findMin(nums):

@@ -157,20 +157,23 @@ Module 12 → Async JavaScript
 > With **68 LeetCode practice problems** with runnable Python code! 💪
 
 ```
-Module 1  → Arrays (28 questions)
-Module 2  → Strings & Sorting (24 questions)
-Module 3  → Searching & Linked List (16 questions)
-Practice  → 68 Runnable LeetCode Solutions
+Module 1     → Arrays (28 questions)
+Module 2     → Strings & Sorting (24 questions)
+Module 3     → Searching & Linked List (16 questions)
+Practice     → 68 Runnable LeetCode Solutions
+Sample Paper → 9 Exam Topics with Progress Tracker
+Notes by Sir → Converted Class Notes
 ```
 
-### 🔢 3. Introduction to Programming
-> 28 comprehensive study files
+### 🔢 3. Introduction to Programming (ICP)
+> 28 comprehensive study files + Exam Important Topics
 
 ```
-Module 1  → Python Basics (Variables, Data Types, Operators)
-Module 2  → Core Python (Loops, Functions, Data Structures)
-Module 3  → Object-Oriented Programming (Classes, Inheritance)
-Module 4  → Version Control (Git & GitHub)
+Module 1   → Python Basics (Variables, Data Types, Operators)
+Module 2   → Core Python (Loops, Functions, Data Structures)
+Module 3   → Object-Oriented Programming (Classes, Inheritance)
+Module 4   → Version Control (Git & GitHub)
+Imp-Topics → 12 Exam Topics (OOPS, File Handling, Collections)
 ```
 
 ### 📐 4. Mathematics for AI/ML
@@ -221,6 +224,39 @@ code .
     <td><b>Repeat</b> — Consistency is key!</td>
   </tr>
 </table>
+
+---
+
+## 📐 My Styled Notes Format
+
+> **For AI Reference**: This is the standardized note-taking style used across all study materials.
+
+| Element | Purpose | Example |
+|---------|---------|---------|
+| **📌 Section Title** | Major topic heading | `## 📌 Concept Name` |
+| **> Goal:** | Problem statement above code | `> **Goal**: Find the largest element` |
+| **> [!SUCCESS]** | Key definitions | `> [!SUCCESS] Definition: ...` |
+| **> [!TIP]** | Key insights | `> [!TIP] Use two pointers` |
+| **> [!WARNING]** | Important notes | `> [!WARNING] Edge case!` |
+| **Runnable Code** | Python with TEST section | `# TEST` comment + print |
+| **📊 Tables** | Comparisons/Summaries | Method comparison tables |
+| **🧠 Key Points** | Quick revision bullets | Memory tricks section |
+| **❓ Q&A** | Self-test questions | Collapsible answers |
+| **Back to Hub** | Navigation link | `[[Hub|Back to Hub]]` |
+| **Progress Tracker** | dataviewjs checkboxes | Tracks completion % |
+
+**Code Block Format:**
+```python
+### Function Name
+> **Goal**: One-line problem description
+
+def function_name():
+    # Implementation with comments
+    pass
+
+# TEST
+print(function_name())
+```
 
 ---
 

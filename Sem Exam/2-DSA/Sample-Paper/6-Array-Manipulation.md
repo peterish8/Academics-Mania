@@ -4,12 +4,9 @@
 
 ## 📌 Minimum Swaps to Sort Array
 
-> [!SUCCESS] **Problem**: Find minimum number of swaps needed to sort an array.
+> **Goal**: Find the minimum number of swaps needed to sort an unsorted array.
 
-### Concept
-1. Create pairs of (value, original_index)
-2. Sort by value
-3. Count cycles - each cycle of length k needs (k-1) swaps
+> [!TIP] **Key Insight**: Find cycles in the array. Each cycle of length k needs (k-1) swaps.
 
 ---
 

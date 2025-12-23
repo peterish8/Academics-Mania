@@ -4,9 +4,7 @@
 
 ## 📌 Dictionary (Hash Map)
 
-### What is it?
-- Key-value pair storage
-- **O(1)** average lookup, insert, delete
+> **Goal**: Store key-value pairs with O(1) average lookup, insert, delete.
 
 ```python
 # Create
@@ -47,10 +45,7 @@ for key, value in d.items():
 
 ## 📌 Set
 
-### What is it?
-- Collection of **unique** values only
-- No duplicates, no key-value pairs
-- **O(1)** average lookup, insert, delete
+> **Goal**: Store unique values only with O(1) average lookup, insert, delete.
 
 ```python
 # Create
@@ -108,6 +103,8 @@ print(a - b)  # Difference: {1}
 ## 💻 Examples
 
 ### Frequency Count (Dict)
+> **Goal**: Count how many times each element appears.
+
 ```python
 def frequency(arr):
     count = {}
@@ -120,12 +117,30 @@ print(frequency([1, 2, 2, 3, 3, 3]))
 ```
 
 ### Contains Duplicate (Set)
+> **Goal**: Check if any element appears more than once.
+
 ```python
 def containsDuplicate(nums):
     return len(nums) != len(set(nums))
 
 # TEST
 print(containsDuplicate([1, 2, 3, 1]))  # True
+```
+
+### Two Sum (Dict)
+> **Goal**: Find two numbers that add up to target. Return their indices.
+
+```python
+def twoSum(nums, target):
+    seen = {}
+    for i, num in enumerate(nums):
+        complement = target - num
+        if complement in seen:
+            return [seen[complement], i]
+        seen[num] = i
+
+# TEST
+print(twoSum([2, 7, 11, 15], 9))  # [0, 1]
 ```
 
 ---

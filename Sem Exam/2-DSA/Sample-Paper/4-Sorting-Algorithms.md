@@ -4,7 +4,7 @@
 
 ## 📌 Bubble Sort
 
-> **Idea**: Compare adjacent pairs, swap if wrong order. Largest "bubbles" to end.
+> **Goal**: Sort array by repeatedly swapping adjacent elements if they're in wrong order.
 
 ```python
 def bubble_sort(arr):
@@ -27,7 +27,7 @@ print(bubble_sort([64, 34, 25, 12, 22]))
 
 ## 📌 Selection Sort
 
-> **Idea**: Find minimum in unsorted part, swap to front.
+> **Goal**: Sort array by repeatedly finding minimum element and placing it at the beginning.
 
 ```python
 def selection_sort(arr):
@@ -49,7 +49,7 @@ print(selection_sort([64, 25, 12, 22, 11]))
 
 ## 📌 Insertion Sort
 
-> **Idea**: Pick element, insert into correct position in sorted part (like sorting cards).
+> **Goal**: Sort array by building sorted portion one element at a time (like sorting cards in hand).
 
 ```python
 def insertion_sort(arr):

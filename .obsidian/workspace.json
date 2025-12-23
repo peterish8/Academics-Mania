@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem Exam/2-DSA/Sample-Paper/1-Prefix-Sum-Two-Pointers.md",
+                "file": "Sem Exam/2-DSA/Sample-Paper/5-Binary-Search-Variations.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Prefix-Sum-Two-Pointers"
+              "title": "5-Binary-Search-Variations"
             }
           },
           {
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5004348754883
   },
   "right": {
     "id": "0fbabb2cdde300d6",
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem Exam/2-DSA/Sample-Paper/1-Prefix-Sum-Two-Pointers.md",
+                "file": "Sem Exam/2-DSA/Sample-Paper/5-Binary-Search-Variations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-Prefix-Sum-Two-Pointers"
+              "title": "Outline of 5-Binary-Search-Variations"
             }
           },
           {
@@ -222,42 +222,42 @@
   },
   "active": "d4013236ea68187c",
   "lastOpenFiles": [
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/11-Set.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/10-Dictionary.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/9-Tuple.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/8-List.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/7-Exception-Handling.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/6-File-Handling.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/5-Constructors-Destructors.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/4-Types-of-Inheritance.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/3-Four-Pillars-OOPS.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/2-Classes-Objects.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/1-OOPS-Fundamentals.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/0-Array-Problems.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics/Imp-Topics-Hub.md",
+    "Sem Exam/3-Intro-to-Programming/Imp-Topics",
+    "Sem Exam/3-Intro-to-Programming/3-Intro-to-Programming (ICP)",
+    "Sem Exam/2-DSA/Sample-Paper/6-Array-Manipulation.md",
+    "Sem Exam/2-DSA/Sample-Paper/2-String-Algorithms.md",
+    "Sem Exam/2-DSA/Sample-Paper/5-Binary-Search-Variations.md",
     "Sem Exam/2-DSA/Sample-Paper/Sample-Paper-Hub.md",
+    "Sem Exam/2-DSA/Sample-Paper/4-Sorting-Algorithms.md",
+    "Sem Exam/2-DSA/Sample-Paper/3-Kadanes-Algorithm.md",
     "Sem Exam/2-DSA/Sample-Paper/1-Prefix-Sum-Two-Pointers.md",
+    "test11.py",
     "Sem Exam/2-DSA/DSA-Hub.md",
     "Sem Exam/2-DSA/Practice Questions/Practice-Questions-Hub.md",
     "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays/01-1480-Running-Sum-of-1D-Array.md",
     "Sem Exam/2-DSA/Sample-Paper/9-Hashing-Techniques.md",
     "Sem Exam/2-DSA/Sample-Paper/8-Linked-List-Types.md",
     "Sem Exam/2-DSA/Sample-Paper/7-Linked-List-Operations.md",
-    "Sem Exam/2-DSA/Sample-Paper/6-Array-Manipulation.md",
-    "Sem Exam/2-DSA/Sample-Paper/5-Binary-Search-Variations.md",
-    "Sem Exam/2-DSA/Sample-Paper/4-Sorting-Algorithms.md",
-    "Sem Exam/2-DSA/Sample-Paper/3-Kadanes-Algorithm.md",
-    "Sem Exam/2-DSA/Sample-Paper/2-String-Algorithms.md",
     "Sem Exam/2-DSA/Sample-Paper",
-    "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList/13-0206-Reverse-Linked-List.md",
-    "Sem Exam/2-DSA/Module 3 - Searching & Linked List/README.md",
-    "Sem Exam/2-DSA/Module 3 - Searching & Linked List/3-Linked-List-Basics.md",
-    "Sem Exam/2-DSA/Notes-by-Sir/1-Linked-List-Complete.md",
-    "Sem Exam/2-DSA/Notes-by-Sir/6-Time-Complexity-Complete.md",
-    "Sem Exam/2-DSA/Notes-by-Sir/5-GCD-HCF-Complete.md",
-    "Sem Exam/2-DSA/Notes-by-Sir/3-Binary-Search-Complete.md",
-    "Sem Exam/2-DSA/Notes-by-Sir/4-LCP-and-Single-Number-III.md",
-    "Sem Exam/2-DSA/Notes-by-Sir/2-Linked-List-LeetCode-Problems.md",
     "Sem Exam/2-DSA/Notes-by-Sir",
-    "Sem Exam/2-DSA/Module 3 - Searching & Linked List/2-Sorting-Analysis.md",
-    "Sem Exam/2-DSA/Module 3 - Searching & Linked List/1-Searching-Algorithms.md",
-    "Sem Exam/2-DSA/Module 2 - String & Sorting/3-Sorting-Basics.md",
-    "Sem Exam/2-DSA/Module 2 - String & Sorting/2-Math-Fundamentals.md",
     "test.py",
     "test.pu",
     "Sem Exam/2-DSA/Practice Questions/Module-3-Searching-LinkedList",
     "Sem Exam/2-DSA/Practice Questions/Module-2-Strings-Sorting",
     "Sem Exam/2-DSA/Practice Questions/Module-1-Arrays",
-    "Sem Exam/2-DSA/Practice Questions",
-    "2. DSA-Python-Course/Practice Questions/Module-3-Searching-LinkedList",
-    "2. DSA-Python-Course/Practice Questions/Module-2-Strings-Sorting",
     "Untitled.canvas"
   ]
 }

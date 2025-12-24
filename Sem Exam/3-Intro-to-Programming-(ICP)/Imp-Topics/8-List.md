@@ -1,10 +1,11 @@
 # 8️⃣ List
 
+> [!INFO] **Definition: List**
+> An ordered, mutable collection that allows duplicate elements. Created using square brackets `[]`.
+
 ---
 
-## 📌 Introduction
-
-> **Definition**: Ordered, mutable collection that allows duplicate elements.
+## 📌 Properties
 
 | Property | Description |
 |----------|-------------|
@@ -158,6 +159,30 @@ print(lst)  # [3, 2, 1]
 - **append()** adds one, **extend()** adds many
 - **pop()** returns value, **remove()** doesn't
 - **sort()** and **reverse()** modify in-place
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: Is List mutable or immutable?
+>> [!SUCCESS]- Answer
+>> **Mutable** - can modify after creation.
+
+> [!QUESTION] Q2: Difference between append() and extend()?
+>> [!SUCCESS]- Answer
+>> `append()` = adds **one item**. `extend()` = adds **all items** from another list.
+
+> [!QUESTION] Q3: What does pop() return?
+>> [!SUCCESS]- Answer
+>> Returns the **removed element**.
+
+> [!QUESTION] Q4: How to get last element?
+>> [!SUCCESS]- Answer
+>> `list[-1]`
+
+> [!QUESTION] Q5: Does sort() return a new list?
+>> [!SUCCESS]- Answer
+>> **No** - it modifies the list in-place and returns `None`.
 
 ---
 

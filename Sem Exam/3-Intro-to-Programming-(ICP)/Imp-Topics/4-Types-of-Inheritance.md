@@ -1,10 +1,13 @@
 # 4️⃣ Types of Inheritance
 
+> [!INFO] **Definition: Inheritance**
+> The ability of a child class to acquire properties and methods from a parent class. Python supports 5 types of inheritance.
+
 ---
 
 ## 📌 1. Single Inheritance
 
-> **Definition**: One child inherits from one parent.
+> One child inherits from one parent.
 
 ```
     Parent
@@ -172,6 +175,30 @@ d.funcD()  # Own
 - Python supports all types of inheritance
 - **MRO** (Method Resolution Order) resolves conflicts in multiple inheritance
 - Use `super()` to call parent methods
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: What is Single Inheritance?
+>> [!SUCCESS]- Answer
+>> One child class inherits from **one parent class**.
+
+> [!QUESTION] Q2: How to do Multiple Inheritance in Python?
+>> [!SUCCESS]- Answer
+>> `class Child(Parent1, Parent2):`
+
+> [!QUESTION] Q3: What is Multilevel Inheritance?
+>> [!SUCCESS]- Answer
+>> **Chain**: Grandparent → Parent → Child
+
+> [!QUESTION] Q4: What is Hierarchical Inheritance?
+>> [!SUCCESS]- Answer
+>> **Multiple children** inherit from **one parent**.
+
+> [!QUESTION] Q5: What is MRO?
+>> [!SUCCESS]- Answer
+>> **Method Resolution Order** - order in which Python looks for methods in inheritance hierarchy.
 
 ---
 

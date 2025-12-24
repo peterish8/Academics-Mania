@@ -1,10 +1,11 @@
 # 🔟 Dictionary
 
+> [!INFO] **Definition: Dictionary**
+> An unordered collection of key-value pairs. Keys must be unique and immutable. Created using curly braces `{}`.
+
 ---
 
-## 📌 Introduction
-
-> **Definition**: Unordered collection of key-value pairs. Keys must be unique.
+## 📌 Properties
 
 | Property | Description |
 |----------|-------------|
@@ -147,6 +148,30 @@ print(val, d)  # 1, {'b': 2}
 - Use `get()` to avoid KeyError
 - Use `items()` to iterate key-value pairs
 - **Mutable** = Can add/remove/modify
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: What is a Dictionary?
+>> [!SUCCESS]- Answer
+>> Collection of **key-value pairs** where keys are unique.
+
+> [!QUESTION] Q2: How to safely access a key that might not exist?
+>> [!SUCCESS]- Answer
+>> Use `get()`: `dict.get("key", default_value)`
+
+> [!QUESTION] Q3: What does items() return?
+>> [!SUCCESS]- Answer
+>> Returns **key-value pairs** as tuples: `[("a", 1), ("b", 2)]`
+
+> [!QUESTION] Q4: Are Dictionary keys ordered?
+>> [!SUCCESS]- Answer
+>> **Python 3.7+**: Yes, maintains insertion order.
+
+> [!QUESTION] Q5: Can a list be a dictionary key?
+>> [!SUCCESS]- Answer
+>> **No** - only **immutable/hashable** types (strings, numbers, tuples).
 
 ---
 

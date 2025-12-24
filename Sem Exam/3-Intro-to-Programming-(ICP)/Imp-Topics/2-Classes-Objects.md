@@ -1,12 +1,10 @@
 # 2️⃣ Classes and Objects
 
----
+> [!INFO] **Definition: Class**
+> A blueprint or template that defines the structure (attributes) and behavior (methods) of objects.
 
-## 📌 Definitions
-
-> **Class**: A blueprint/template for creating objects. Defines attributes and methods.
-
-> **Object**: An instance of a class. Has actual values.
+> [!INFO] **Definition: Object**
+> An instance of a class with actual values stored in memory. Each object is a separate entity.
 
 ```python
 # Class = Blueprint
@@ -123,6 +121,30 @@ print(book1.title)  # Advanced Python
 - **Class Variable** = Shared, **Instance Variable** = Unique
 - **`__init__`** = Constructor (runs on object creation)
 - **`self`** = Reference to current object
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: What is a Class?
+>> [!SUCCESS]- Answer
+>> A **blueprint/template** for creating objects.
+
+> [!QUESTION] Q2: What is an Object?
+>> [!SUCCESS]- Answer
+>> An **instance** of a class with actual values.
+
+> [!QUESTION] Q3: Difference between Class Variable and Instance Variable?
+>> [!SUCCESS]- Answer
+>> Class Variable = **Shared** by all objects. Instance Variable = **Unique** to each object.
+
+> [!QUESTION] Q4: What is `self`?
+>> [!SUCCESS]- Answer
+>> Reference to the **current object** being used.
+
+> [!QUESTION] Q5: What does `__init__` do?
+>> [!SUCCESS]- Answer
+>> **Constructor** - runs automatically when object is created to initialize attributes.
 
 ---
 

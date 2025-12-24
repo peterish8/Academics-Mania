@@ -1,5 +1,8 @@
 # 📥 Input Methods - Complete Guide
 
+> [!INFO] **Definition: input()**
+> Built-in function that reads user input from keyboard. Always returns a **string**. Use `int()`, `float()`, `split()`, `map()` to convert.
+
 ---
 
 ## 📌 Basic Input
@@ -235,6 +238,30 @@ print(matrix)
 - **map()** applies function to each element
 - **list()** converts map object to list
 - `a, b, c = ...` unpacks into variables
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: What does input() return?
+>> [!SUCCESS]- Answer
+>> Always returns a **string**.
+
+> [!QUESTION] Q2: How to read multiple integers in one line?
+>> [!SUCCESS]- Answer
+>> `a, b, c = map(int, input().split())`
+
+> [!QUESTION] Q3: What does split() do?
+>> [!SUCCESS]- Answer
+>> Breaks string into **list** by separator (default = space).
+
+> [!QUESTION] Q4: What does map() do?
+>> [!SUCCESS]- Answer
+>> Applies a **function to each element** of an iterable.
+
+> [!QUESTION] Q5: How to read an array of integers?
+>> [!SUCCESS]- Answer
+>> `arr = list(map(int, input().split()))`
 
 ---
 

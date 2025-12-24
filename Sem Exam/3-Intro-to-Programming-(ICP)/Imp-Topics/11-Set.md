@@ -1,10 +1,11 @@
 # 1️⃣1️⃣ Set
 
+> [!INFO] **Definition: Set**
+> An unordered collection of unique elements. Duplicates are automatically removed. Created using `set()` or curly braces `{}`.
+
 ---
 
-## 📌 Introduction
-
-> **Definition**: Unordered collection of **unique** elements.
+## 📌 Properties
 
 | Property | Description |
 |----------|-------------|
@@ -155,6 +156,30 @@ A ^ B = {1, 4}           Symmetric Difference
 - **No index** - can't do `set[0]`
 - Use `discard()` for safe removal
 - Use `set()` to remove duplicates from list
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: What is unique about Set?
+>> [!SUCCESS]- Answer
+>> **No duplicate elements** - automatically removed.
+
+> [!QUESTION] Q2: Difference between remove() and discard()?
+>> [!SUCCESS]- Answer
+>> `remove()` = **error** if not found. `discard()` = **no error**.
+
+> [!QUESTION] Q3: How to get common elements of two sets?
+>> [!SUCCESS]- Answer
+>> **Intersection**: `a & b` or `a.intersection(b)`
+
+> [!QUESTION] Q4: How to create empty set?
+>> [!SUCCESS]- Answer
+>> `set()` - NOT `{}` (that's empty dict!)
+
+> [!QUESTION] Q5: Can you access set elements by index?
+>> [!SUCCESS]- Answer
+>> **No** - sets are unordered, no indexing.
 
 ---
 

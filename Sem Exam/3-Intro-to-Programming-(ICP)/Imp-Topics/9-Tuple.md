@@ -1,10 +1,11 @@
 # 9️⃣ Tuple
 
+> [!INFO] **Definition: Tuple**
+> An ordered, immutable collection that allows duplicate elements. Created using parentheses `()`. Cannot be modified after creation.
+
 ---
 
-## 📌 Introduction
-
-> **Definition**: Ordered, **immutable** collection that allows duplicate elements.
+## 📌 Properties
 
 | Property | Description |
 |----------|-------------|
@@ -142,6 +143,30 @@ x, y = get_coordinates()
 - Use comma for single-element: `(1,)` not `(1)`
 - **Unpacking**: `x, y, z = tuple`
 - Faster and memory-efficient than lists
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: Is Tuple mutable or immutable?
+>> [!SUCCESS]- Answer
+>> **Immutable** - cannot modify after creation.
+
+> [!QUESTION] Q2: How to create single-element tuple?
+>> [!SUCCESS]- Answer
+>> Use comma: `(1,)` not `(1)`.
+
+> [!QUESTION] Q3: What is Tuple Unpacking?
+>> [!SUCCESS]- Answer
+>> Extracting values into variables: `a, b, c = (1, 2, 3)`
+
+> [!QUESTION] Q4: Why use Tuple over List?
+>> [!SUCCESS]- Answer
+>> **Faster**, less memory, can be dictionary keys.
+
+> [!QUESTION] Q5: Can Tuple be a dictionary key?
+>> [!SUCCESS]- Answer
+>> **Yes** - because tuples are immutable (hashable).
 
 ---
 

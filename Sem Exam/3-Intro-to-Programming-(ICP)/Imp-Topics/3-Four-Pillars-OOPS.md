@@ -4,7 +4,8 @@
 
 ## 📌 1. Encapsulation
 
-> **Definition**: Bundling data (attributes) and methods together, restricting direct access to some components.
+> [!INFO] **Definition: Encapsulation**
+> Bundling data and methods together while hiding internal details from outside access. It protects data using access modifiers (public, protected, private).
 
 ### Data Hiding & Access Modifiers
 
@@ -39,7 +40,8 @@ print(acc.get_balance()) # Works: 1000
 
 ## 📌 2. Abstraction
 
-> **Definition**: Hide complex implementation, show only essential features.
+> [!INFO] **Definition: Abstraction**
+> Hiding complex implementation details and showing only the essential features to the user. It focuses on "what it does" not "how it does".
 
 ### Abstract Classes
 > Use `abc` module to create abstract classes.
@@ -76,7 +78,8 @@ print(rect.area())  # 15
 
 ## 📌 3. Inheritance
 
-> **Definition**: A class (child) inherits attributes and methods from another class (parent).
+> [!INFO] **Definition: Inheritance**
+> The ability of a child class to acquire properties and methods from a parent class, promoting code reusability.
 
 ### Base Class & Derived Class
 
@@ -101,7 +104,8 @@ dog.speak()  # Buddy says Woof!
 
 ## 📌 4. Polymorphism
 
-> **Definition**: Same interface, different implementations. "Many forms."
+> [!INFO] **Definition: Polymorphism**
+> The ability for the same method name to have different behaviors in different classes. "Many forms" - same interface, different implementations.
 
 ### Method Overriding (Run-time Polymorphism)
 > Child class provides different implementation of parent's method.
@@ -151,6 +155,30 @@ print(m.add(2, 3, 4))   # 9
 - **Abstraction**: Use `@abstractmethod` decorator
 - **Inheritance**: `class Child(Parent):`
 - **Polymorphism**: Override methods in child class
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: What is Encapsulation?
+>> [!SUCCESS]- Answer
+>> Bundling data and methods together, **hiding internal details** using private variables.
+
+> [!QUESTION] Q2: How to make a variable private in Python?
+>> [!SUCCESS]- Answer
+>> Use **double underscore prefix**: `__variable_name`
+
+> [!QUESTION] Q3: What is the difference between Abstraction and Encapsulation?
+>> [!SUCCESS]- Answer
+>> **Abstraction** = Hide complexity (what). **Encapsulation** = Hide data (how).
+
+> [!QUESTION] Q4: What is Polymorphism?
+>> [!SUCCESS]- Answer
+>> Same method name, **different implementations** in different classes.
+
+> [!QUESTION] Q5: What is Method Overriding?
+>> [!SUCCESS]- Answer
+>> Child class provides **different implementation** of parent's method.
 
 ---
 

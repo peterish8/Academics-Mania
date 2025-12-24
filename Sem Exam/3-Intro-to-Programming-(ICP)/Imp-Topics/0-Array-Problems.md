@@ -76,4 +76,28 @@ for _ in range(T):
 
 ---
 
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: How do you find the second largest in one line?
+>> [!SUCCESS]- Answer
+>> `sorted_arr = sorted(arr); second = sorted_arr[-2]`
+
+> [!QUESTION] Q2: What if all elements are same?
+>> [!SUCCESS]- Answer
+>> There is no second largest - return -1 or handle as edge case.
+
+> [!QUESTION] Q3: Time complexity of sorting approach?
+>> [!SUCCESS]- Answer
+>> **O(n log n)** because of the sort operation.
+
+> [!QUESTION] Q4: What does `a[-1]` give?
+>> [!SUCCESS]- Answer
+>> The **last element** (largest after sorting).
+
+> [!QUESTION] Q5: Why check `a[idx] == largest` in a loop?
+>> [!SUCCESS]- Answer
+>> To **skip duplicates** - if largest appears multiple times, we need to find a different second largest.
+
+---
+
 ← Previous: None | [[Imp-Topics-Hub|🏠 Hub]] | Next: [[1-OOPS-Fundamentals|→]]

@@ -1,5 +1,8 @@
 # 6️⃣ File Handling
 
+> [!INFO] **Definition: File Handling**
+> The process of performing operations on files such as creating, reading, writing, and appending data. Python uses built-in `open()` function.
+
 ---
 
 ## 📌 Opening & Closing Files
@@ -135,6 +138,30 @@ with open("students.txt", "r") as f:
 - **"r"** = read, **"w"** = write (overwrites!), **"a"** = append
 - `readline()` for line-by-line, `read()` for all at once
 - Don't forget `\n` for new lines in write!
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: Best way to open a file?
+>> [!SUCCESS]- Answer
+>> Using `with` statement: `with open("file.txt", "r") as f:`
+
+> [!QUESTION] Q2: What does mode "w" do?
+>> [!SUCCESS]- Answer
+>> Opens for **writing** and **overwrites** existing content.
+
+> [!QUESTION] Q3: Difference between read() and readlines()?
+>> [!SUCCESS]- Answer
+>> `read()` = **single string**. `readlines()` = **list of lines**.
+
+> [!QUESTION] Q4: How to add content without overwriting?
+>> [!SUCCESS]- Answer
+>> Use **append mode**: `open("file.txt", "a")`
+
+> [!QUESTION] Q5: Why use `with` statement?
+>> [!SUCCESS]- Answer
+>> **Auto-closes** the file even if error occurs.
 
 ---
 

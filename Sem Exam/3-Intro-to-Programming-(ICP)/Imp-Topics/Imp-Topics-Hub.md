@@ -19,26 +19,26 @@
 ## 📋 Topics Checklist
 
 ### 0️⃣ Array Problems
-- [ ] Second Largest Element (One Pass)
-- [ ] Largest & Second Largest (Array Traversal)
+- [x] Second Largest Element (One Pass)
+- [x] Largest & Second Largest (Array Traversal)
 → [[0-Array-Problems|📖 Read Notes]]
 
 ---
 
 ### 1️⃣ OOPS Fundamentals
-- [ ] Definition of OOP (Object-Oriented Programming)
-- [ ] Advantages of OOPS
-- [ ] OOPS vs Procedural Programming
+- [x] Definition of OOP (Object-Oriented Programming)
+- [x] Advantages of OOPS
+- [x] OOPS vs Procedural Programming
 → [[1-OOPS-Fundamentals|📖 Read Notes]]
 
 ---
 
 ### 2️⃣ Classes and Objects
-- [ ] Definition of Class & Object
-- [ ] Class Variables vs Instance Variables
-- [ ] Instance Methods & Constructor (__init__)
-- [ ] self keyword
-- [ ] Creating & Accessing Objects
+- [x] Definition of Class & Object
+- [x] Class Variables vs Instance Variables
+- [x] Instance Methods & Constructor (__init__)
+- [x] self keyword
+- [x] Creating & Accessing Objects
 → [[2-Classes-Objects|📖 Read Notes]]
 
 ---

@@ -1,10 +1,7 @@
 # 1️⃣ OOPS Fundamentals
 
----
-
-## 📌 What is Object-Oriented Programming?
-
-> **Definition**: A programming paradigm based on the concept of **objects** which contain data (attributes) and code (methods).
+> [!INFO] **Definition: Object-Oriented Programming (OOP)**
+> A programming paradigm where code is organized around **objects** that contain both data (attributes) and methods (functions). It focuses on "what to do" rather than "how to do".
 
 ---
 
@@ -61,6 +58,30 @@ print(rect.area())
 - **OOPS** = Objects + Classes
 - **4 Pillars**: Encapsulation, Abstraction, Inheritance, Polymorphism
 - **Benefits**: Reusability, Modularity, Data Protection
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: What is OOP in one sentence?
+>> [!SUCCESS]- Answer
+>> Programming paradigm based on **objects** containing data and methods.
+
+> [!QUESTION] Q2: Name the 4 pillars of OOPS?
+>> [!SUCCESS]- Answer
+>> Encapsulation, Abstraction, Inheritance, Polymorphism.
+
+> [!QUESTION] Q3: Main advantage of OOPS over Procedural?
+>> [!SUCCESS]- Answer
+>> **Code Reusability** through inheritance and encapsulation.
+
+> [!QUESTION] Q4: Give one example of OOP language?
+>> [!SUCCESS]- Answer
+>> Python, Java, C++, C#
+
+> [!QUESTION] Q5: What is bundled together in an object?
+>> [!SUCCESS]- Answer
+>> **Data (attributes)** and **Code (methods)**.
 
 ---
 

@@ -1,10 +1,10 @@
 # 5️⃣ Constructors and Destructors
 
----
+> [!INFO] **Definition: Constructor (`__init__`)**
+> A special method that runs automatically when an object is created. It is used to initialize object attributes.
 
-## 📌 Constructor (__init__)
-
-> **Definition**: Special method that runs automatically when object is created.
+> [!INFO] **Definition: Destructor (`__del__`)**
+> A special method that runs when an object is destroyed or garbage collected. Used for cleanup.
 
 ---
 
@@ -121,6 +121,30 @@ del f                   # "File data.txt closed"
 - **`__del__`** runs when `del object` or garbage collected
 - Use default arguments for "overloading" effect
 - Destructor is rarely needed (Python handles memory)
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: What is a Constructor?
+>> [!SUCCESS]- Answer
+>> Special method `__init__` that runs **automatically when object is created**.
+
+> [!QUESTION] Q2: Default vs Parameterized Constructor?
+>> [!SUCCESS]- Answer
+>> **Default** = No parameters. **Parameterized** = Accepts parameters.
+
+> [!QUESTION] Q3: What is `__del__`?
+>> [!SUCCESS]- Answer
+>> **Destructor** - called when object is deleted or garbage collected.
+
+> [!QUESTION] Q4: Does Python support Constructor Overloading?
+>> [!SUCCESS]- Answer
+>> **No** - use default arguments instead.
+
+> [!QUESTION] Q5: When does `__init__` run?
+>> [!SUCCESS]- Answer
+>> Automatically when you write `obj = ClassName()`.
 
 ---
 

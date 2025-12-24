@@ -1,5 +1,8 @@
 # 7️⃣ Exception Handling
 
+> [!INFO] **Definition: Exception Handling**
+> The process of responding to runtime errors gracefully without crashing the program. Uses `try`, `except`, `else`, and `finally` blocks.
+
 ---
 
 ## 📌 Errors vs Exceptions
@@ -152,6 +155,30 @@ except InvalidAgeError as e:
 - **finally** always runs (even if exception occurs)
 - **raise** to manually throw exceptions
 - Create custom exceptions by inheriting `Exception`
+
+---
+
+## ❓ 5 Questions to Test Yourself
+
+> [!QUESTION] Q1: What is the difference between try and except?
+>> [!SUCCESS]- Answer
+>> **try** = code that might fail. **except** = handles the error.
+
+> [!QUESTION] Q2: When does `finally` run?
+>> [!SUCCESS]- Answer
+>> **ALWAYS** - whether exception occurs or not.
+
+> [!QUESTION] Q3: How to manually raise an exception?
+>> [!SUCCESS]- Answer
+>> Use `raise`: `raise ValueError("message")`
+
+> [!QUESTION] Q4: What is `else` in try-except?
+>> [!SUCCESS]- Answer
+>> Runs only if **no exception occurred**.
+
+> [!QUESTION] Q5: How to create custom exception?
+>> [!SUCCESS]- Answer
+>> Create class inheriting from `Exception`: `class MyError(Exception):`
 
 ---
 

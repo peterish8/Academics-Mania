@@ -53,79 +53,79 @@
 ---
 
 ### 4️⃣ Types of Inheritance
-- [ ] Single Inheritance
-- [ ] Multiple Inheritance
-- [ ] Multilevel Inheritance
-- [ ] Hierarchical Inheritance
-- [ ] Hybrid Inheritance
+- [x] Single Inheritance
+- [x] Multiple Inheritance
+- [x] Multilevel Inheritance
+- [x] Hierarchical Inheritance
+- [x] Hybrid Inheritance
 → [[4-Types-of-Inheritance|📖 Read Notes]]
 
 ---
 
 ### 5️⃣ Constructors and Destructors
-- [ ] Default Constructor
-- [ ] Parameterized Constructor
-- [ ] Constructor Overloading
-- [ ] Destructor (__del__)
+- [x] Default Constructor
+- [x] Parameterized Constructor
+- [x] Constructor Overloading
+- [x] Destructor (__del__)
 → [[5-Constructors-Destructors|📖 Read Notes]]
 
 ---
 
 ### 6️⃣ File Handling
-- [ ] Opening & Closing Files
-- [ ] File Modes (r, w, a, r+, w+, a+)
-- [ ] read(), readline(), readlines()
-- [ ] write(), writelines()
+- [x] Opening & Closing Files
+- [x] File Modes (r, w, a, r+, w+, a+)
+- [x] read(), readline(), readlines()
+- [x] write(), writelines()
 → [[6-File-Handling|📖 Read Notes]]
 
 ---
 
 ### 7️⃣ Exception Handling
-- [ ] Errors vs Exceptions
-- [ ] try, except, else, finally
-- [ ] Multiple except blocks
-- [ ] User-Defined Exceptions (raise)
+- [x] Errors vs Exceptions
+- [x] try, except, else, finally
+- [x] Multiple except blocks
+- [x] User-Defined Exceptions (raise)
 → [[7-Exception-Handling|📖 Read Notes]]
 
 ---
 
 ### 8️⃣ List
-- [ ] List Basics (Mutable, Indexed)
-- [ ] CRUD Operations
-- [ ] Methods: append, insert, extend, remove, pop, sort, reverse
+- [x] List Basics (Mutable, Indexed)
+- [x] CRUD Operations
+- [x] Methods: append, insert, extend, remove, pop, sort, reverse
 → [[8-List|📖 Read Notes]]
 
 ---
 
 ### 9️⃣ Tuple
-- [ ] Tuple Basics (Immutable)
-- [ ] Packing & Unpacking
-- [ ] Methods: count, index
+- [x] Tuple Basics (Immutable)
+- [x] Packing & Unpacking
+- [x] Methods: count, index
 → [[9-Tuple|📖 Read Notes]]
 
 ---
 
 ### 🔟 Dictionary
-- [ ] Key-Value Concept (Mutable)
-- [ ] CRUD Operations
-- [ ] Methods: keys, values, items, get, update, pop
+- [x] Key-Value Concept (Mutable)
+- [x] CRUD Operations
+- [x] Methods: keys, values, items, get, update, pop
 → [[10-Dictionary|📖 Read Notes]]
 
 ---
 
 ### 1️⃣1️⃣ Set
-- [ ] Set Basics (Unique, Unordered)
-- [ ] Set Operations (Union, Intersection, Difference)
-- [ ] Methods: add, remove, discard, pop
+- [x] Set Basics (Unique, Unordered)
+- [x] Set Operations (Union, Intersection, Difference)
+- [x] Methods: add, remove, discard, pop
 → [[11-Set|📖 Read Notes]]
 
 ---
 
 ### 1️⃣2️⃣ Input Methods
-- [ ] input(), int(), float()
-- [ ] split() - Multiple values
-- [ ] map() + split() combo
-- [ ] Multiple test cases pattern
+- [x] input(), int(), float()
+- [x] split() - Multiple values
+- [x] map() + split() combo
+- [x] Multiple test cases pattern
 → [[12-Input-Methods|📖 Read Notes]]
 
 ---

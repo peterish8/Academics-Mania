@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb73ca0f9376eb77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/3-Four-Pillars-OOPS.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3-Four-Pillars-OOPS"
-            }
-          },
-          {
             "id": "a90a687e109329fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/4-Types-of-Inheritance.md",
+                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/Might-Come-Qs/Git-Version-Control-QA.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-Types-of-Inheritance"
+              "title": "Git-Version-Control-QA"
             }
           },
           {
@@ -41,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/Imp-Topics-Hub.md",
+                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/6-File-Handling.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imp-Topics-Hub"
+              "title": "6-File-Handling"
+            }
+          },
+          {
+            "id": "f6fd034ad9bd3b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/Might-Come-Qs/Git-Version-Control-QA.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git-Version-Control-QA"
             }
           }
         ],
@@ -207,35 +207,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a90a687e109329fb",
+  "active": "88984f04227f87f5",
   "lastOpenFiles": [
     "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/3-Four-Pillars-OOPS.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/4-Types-of-Inheritance.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/Imp-Topics-Hub.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/1-OOPS-Fundamentals.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/2-Classes-Objects.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/0-Array-Problems.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP/1-Classes-Objects.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/Might-Come-Qs/Git-Version-Control-QA.md",
-    "Sem Exam/2-DSA/Module 3 - Searching & Linked List/1-Searching-Algorithms.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/11-Set.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/Might-Come-Qs",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/9-Tuple.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/7-Modules-Libraries.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/5-File-Handling.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/3-Dictionaries.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/1-Lists.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 1 - Python Basics/README.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 1 - Python Basics/3-Strings.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 1 - Python Basics/2-Functions.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/12-Input-Methods.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/Imp-Topics-Hub.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/11-Set.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/10-Dictionary.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/8-List.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/7-Exception-Handling.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/6-File-Handling.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/5-Constructors-Destructors.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/4-Types-of-Inheritance.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/1-OOPS-Fundamentals.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/0-Array-Problems.md",
+    "Sem Exam/2-DSA/Module 3 - Searching & Linked List/1-Searching-Algorithms.md",
+    "Sem Exam/3-Intro-to-Programming-(ICP)/Imp-Topics/Might-Come-Qs",
     "README.md",
     "Sem Exam/2-DSA/Sample-Paper/Sample-Paper-Hub.md",
-    "Sem Exam/2-DSA/Sample-Paper/5-Binary-Search-Variations.md",
-    "Sem Exam/3-Intro-to-Programming/Imp-Topics/0-Array-Problems.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP/4-Polymorphism.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP/README.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP/6-Special-Methods.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP/5-Abstract-Classes.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP/3-Inheritance.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP/1-Classes-Objects.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP/2-Methods-Encapsulation.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/6-Exception-Handling.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 4 - Version Control/7-Repo-Hygiene.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python/7-Modules-Libraries.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 4 - Version Control/README.md",
-    "Sem Exam/3-Intro-to-Programming-(ICP)/Module 4 - Version Control/6-Advanced-Git.md",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 3 - OOP",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 4 - Version Control",
     "Sem Exam/3-Intro-to-Programming-(ICP)/Module 2 - Core Python",

@@ -171,10 +171,108 @@ d.funcD()  # Own
 
 ---
 
+## 📌 The `super()` Keyword
+
+> [!INFO] **Definition: super()**
+> A built-in function that returns a temporary object of the parent class, allowing you to call parent class methods from the child class.
+
+### Why use super()?
+- ✅ Call parent's `__init__` to initialize inherited attributes
+- ✅ Extend parent methods without replacing them
+- ✅ Works correctly with multiple inheritance (follows MRO)
+- ✅ Cleaner than using `ParentClass.method(self)`
+
+### Example 1: Calling Parent Constructor
+
+```python
+class Animal:
+    def __init__(self, name):
+        self.name = name
+        print(f"Animal created: {self.name}")
+
+class Dog(Animal):
+    def __init__(self, name, breed):
+        super().__init__(name)   # Call parent's __init__
+        self.breed = breed
+        print(f"Dog breed: {self.breed}")
+
+# TEST
+dog = Dog("Buddy", "Labrador")
+# Output:
+# Animal created: Buddy
+# Dog breed: Labrador
+print(dog.name, dog.breed)  # Buddy Labrador
+```
+
+### Example 2: Extending Parent Methods
+
+```python
+class Vehicle:
+    def start(self):
+        print("Vehicle starting...")
+
+class Car(Vehicle):
+    def start(self):
+        super().start()        # Call parent's start first
+        print("Car engine running!")
+
+# TEST
+car = Car()
+car.start()
+# Output:
+# Vehicle starting...
+# Car engine running!
+```
+
+### Example 3: super() with Multiple Inheritance
+
+```python
+class A:
+    def greet(self):
+        print("Hello from A")
+
+class B(A):
+    def greet(self):
+        super().greet()   # Follows MRO
+        print("Hello from B")
+
+class C(A):
+    def greet(self):
+        super().greet()
+        print("Hello from C")
+
+class D(B, C):  # Multiple inheritance
+    def greet(self):
+        super().greet()   # Follows MRO: D → B → C → A
+        print("Hello from D")
+
+# TEST
+d = D()
+d.greet()
+# Output: A → C → B → D (follows MRO)
+```
+
+### Without super() vs With super()
+
+```python
+# ❌ Without super() - Hardcoded parent name
+class Child(Parent):
+    def __init__(self, name):
+        Parent.__init__(self, name)  # Not flexible
+
+# ✅ With super() - Recommended
+class Child(Parent):
+    def __init__(self, name):
+        super().__init__(name)       # Flexible, follows MRO
+```
+
+---
+
 ## 🧠 Key Points
 - Python supports all types of inheritance
 - **MRO** (Method Resolution Order) resolves conflicts in multiple inheritance
 - Use `super()` to call parent methods
+- `super().__init__()` initializes parent class attributes
 
 ---
 

@@ -22,4 +22,27 @@ Formula:
 $|A \cup B| = |A| + |B| - |A \cap B|$
 
 ---
+
+## 📌 4. Ordered Pairs & Cartesian Product
+
+> [!INFO] **Definition: Ordered Pair**
+> A pair of elements where **order matters**: $(a, b) \neq (b, a)$ unless $a = b$.
+
+> [!INFO] **Definition: Cartesian Product**
+> $A \times B$ = Set of all ordered pairs $(a, b)$ where $a \in A$ and $b \in B$.
+
+**Example:**
+```
+A = {1, 2}
+B = {x, y}
+
+A × B = {(1,x), (1,y), (2,x), (2,y)}
+```
+
+**Properties:**
+- $|A \times B| = |A| \times |B|$ (number of pairs)
+- $(a, b) = (c, d)$ only if $a = c$ AND $b = d$
+- $A \times B \neq B \times A$ (unless A = B)
+
+---
 > [[Sem Exam/4-Mathematics-for-AI-ML/Module 1 - Logic Sets and Critical Thinking/README|🔙 Back to Module 1 Overview]] | [[../Math-AI-ML-Hub|🏠 Back to Subject Hub]]

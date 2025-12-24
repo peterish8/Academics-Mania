@@ -44,10 +44,10 @@
 ---
 
 ### 3️⃣ Four Pillars of OOPS
-- [ ] Encapsulation (Data Hiding, Access Modifiers)
-- [ ] Abstraction (Abstract Classes)
-- [ ] Inheritance (Base & Derived Class)
-- [ ] Polymorphism (Overloading & Overriding)
+- [x] Encapsulation (Data Hiding, Access Modifiers)
+- [x] Abstraction (Abstract Classes)
+- [x] Inheritance (Base & Derived Class)
+- [x] Polymorphism (Overloading & Overriding)
 → [[3-Four-Pillars-OOPS|📖 Read Notes]]
 
 ---

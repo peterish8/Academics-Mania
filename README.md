@@ -169,11 +169,12 @@ Notes by Sir → Converted Class Notes
 > 28 comprehensive study files + Exam Important Topics
 
 ```
-Module 1   → Python Basics (Variables, Data Types, Operators)
-Module 2   → Core Python (Loops, Functions, Data Structures)
-Module 3   → Object-Oriented Programming (Classes, Inheritance)
-Module 4   → Version Control (Git & GitHub)
-Imp-Topics → 12 Exam Topics (OOPS, File Handling, Collections)
+Module 1      → Python Basics (Variables, Data Types, Operators)
+Module 2      → Core Python (Loops, Functions, Data Structures)
+Module 3      → Object-Oriented Programming (Classes, Inheritance)
+Module 4      → Version Control (Git & GitHub)
+Imp-Topics    → 13 Exam Topics (OOPS, File Handling, Collections, Input)
+Might-Come-Qs → 35 Git Q&A with Collapsible Answers
 ```
 
 ### 📐 4. Mathematics for AI/ML

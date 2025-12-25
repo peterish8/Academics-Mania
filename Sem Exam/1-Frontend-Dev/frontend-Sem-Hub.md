@@ -50,7 +50,7 @@
 - [ ] [[Module 2 - CSS Foundations/9-Advanced-Selectors|9. Combinators & Attr Selectors]]
 
 ### **Module 3: CSS Layout** 📐
-- [ ] [[Module 3 - CSS Layout/README|Module Overview]]
+- [x] [[Module 3 - CSS Layout/README|Module Overview]]
 - [ ] [[Module 3 - CSS Layout/1-Flexbox|1. Flexbox System]]
 - [ ] [[Module 3 - CSS Layout/2-CSS-Grid|2. CSS Grid]]
 

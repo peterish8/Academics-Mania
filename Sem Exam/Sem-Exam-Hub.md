@@ -4,10 +4,16 @@
 > Track your study progress across all subjects in one place!
 > 
 > ```dataviewjs
-> const dsaTasks = dv.page("2-DSA/DSA-Hub.md").file.tasks;
-> const feTasks = dv.page("1-Frontend-Dev/frontend-Sem-Hub.md").file.tasks;
-> const ipTasks = dv.page("3-Intro-to-Programming/Intro-Prog-Hub.md").file.tasks;
-> const mathTasks = dv.page("4-Mathematics-for-AI-ML/Math-AI-ML-Hub.md").file.tasks;
+> const dsaPage = dv.page("2-DSA/DSA-Hub.md");
+> const fePage = dv.page("1-Frontend-Dev/frontend-Sem-Hub.md");
+> const ipPage = dv.page("3-Intro-to-Programming-(ICP)/Intro-Prog-Hub.md");
+> const mathPage = dv.page("4-Mathematics-for-AI-ML/Math-AI-ML-Hub.md");
+> 
+> const dsaTasks = dsaPage?.file?.tasks || [];
+> const feTasks = fePage?.file?.tasks || [];
+> const ipTasks = ipPage?.file?.tasks || [];
+> const mathTasks = mathPage?.file?.tasks || [];
+> 
 > const allTasks = [...dsaTasks, ...feTasks, ...ipTasks, ...mathTasks];
 > const completed = allTasks.filter(t => t.completed).length;
 > const total = allTasks.length;

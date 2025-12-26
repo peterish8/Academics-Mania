@@ -18,15 +18,15 @@
 ## 📚 **Checklist**
 
 ### **Module 1: Logic, Sets, and Critical Thinking** 🧠
-- [ ] [[Module 1 - Logic Sets and Critical Thinking/README|Module Overview]]
-- [ ] [[Module 1 - Logic Sets and Critical Thinking/1-Logic-Basics|1. Logic Basics (Truth Tables, Connectives)]]
-- [ ] [[Module 1 - Logic Sets and Critical Thinking/2-Sets-Operations|2. Sets & Venn Diagrams]]
-- [ ] [[Module 1 - Logic Sets and Critical Thinking/3-Functions|3. Functions (Injective, Surjective, Bijective)]]
-- [ ] [[Module 1 - Logic Sets and Critical Thinking/4-Python-Intro|4. Working with Python (Jupyter)]]
+- [x] [[Module 1 - Logic Sets and Critical Thinking/README|Module Overview]]
+- [x] [[Module 1 - Logic Sets and Critical Thinking/1-Logic-Basics|1. Logic Basics (Truth Tables, Connectives)]]
+- [x] [[Module 1 - Logic Sets and Critical Thinking/2-Sets-Operations|2. Sets & Venn Diagrams]]
+- [x] [[Module 1 - Logic Sets and Critical Thinking/3-Functions|3. Functions (Injective, Surjective, Bijective)]]
+- [x] [[Module 1 - Logic Sets and Critical Thinking/4-Python-Intro|4. Working with Python (Jupyter)]]
 
 ### **Module 2: Data Types, Collection & Tabulation** 📊
-- [ ] [[Module 2 - Data Types Collection and Tabulation/README|Module Overview]]
-- [ ] [[Module 2 - Data Types Collection and Tabulation/1-Data-Fundamentals|1. Data Fundamentals (Population, Sample, Scales)]]
+- [x] [[Module 2 - Data Types Collection and Tabulation/README|Module Overview]]
+- [x] [[Module 2 - Data Types Collection and Tabulation/1-Data-Fundamentals|1. Data Fundamentals (Population, Sample, Scales)]]
 - [ ] [[Module 2 - Data Types Collection and Tabulation/2-Charts-Graphs|2. Charts & Graphs (Bar, Histograms, Scatter)]]
 - [ ] [[Module 2 - Data Types Collection and Tabulation/3-Tabulation|3. Tabulation Methods]]
 

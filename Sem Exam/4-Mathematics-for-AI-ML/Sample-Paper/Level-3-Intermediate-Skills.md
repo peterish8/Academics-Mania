@@ -7,7 +7,7 @@
 
 ## 📝 Questions (10)
 
-- [ ] **Q21.** A relation R on set A is said to be reflexive if:
+- [x] **Q21.** A relation R on set A is said to be reflexive if:
   - (a) (a,b)∈R ⇒ (b,a)∈R
   - (b) (a,a)∈R for all a∈A
   - (c) (a,b),(b,c)∈R ⇒ (a,c)∈R
@@ -24,7 +24,7 @@
   > 
   > **Remember:** Reflexive = self-loop for ALL elements
 
-- [ ] **Q22.** A relation which is reflexive, symmetric and transitive is called:
+- [x] **Q22.** A relation which is reflexive, symmetric and transitive is called:
   - (a) Partial order
   - (b) Symmetric relation
   - (c) Equivalence relation
@@ -39,7 +39,7 @@
   > 
   > **Remember:** Equivalence = Reflexive + Symmetric + Transitive
 
-- [ ] **Q23.** Which of the following relations is symmetric?
+- [x] **Q23.** Which of the following relations is symmetric?
   - (a) {(1,2)}
   - (b) {(1,2),(2,1)}
   - (c) {(1,1),(2,3)}
@@ -54,7 +54,7 @@
   > 
   > **Check:** (1,2) is in R, so (2,1) must also be in R ✓
 
-- [ ] **Q24.** A function is called one-to-one if:
+- [x] **Q24.** A function is called one-to-one if:
   - (a) Every element of codomain has a preimage
   - (b) Different domain elements map to different images
   - (c) Same domain elements map to different images
@@ -69,7 +69,7 @@
   > 
   > **Test:** If f(x₁) = f(x₂), then x₁ = x₂
 
-- [ ] **Q25.** A function where multiple domain elements map to one range element is:
+- [x] **Q25.** A function where multiple domain elements map to one range element is:
   - (a) One-to-one
   - (b) Onto
   - (c) Many-to-one
@@ -84,7 +84,7 @@
   > 
   > **Example:** f(x) = x² is many-to-one (f(2) = f(-2) = 4)
 
-- [ ] **Q26.** If events A and B are mutually exclusive, then P(A∩B) is:
+- [x] **Q26.** If events A and B are mutually exclusive, then P(A∩B) is:
   - (a) 1
   - (b) 0
   - (c) P(A)+P(B)
@@ -99,7 +99,7 @@
   > 
   > **Remember:** Mutually exclusive ⇒ P(A∩B) = 0
 
-- [ ] **Q27.** If two events A and B are independent, then:
+- [x] **Q27.** If two events A and B are independent, then:
   - (a) P(A∩B)=0
   - (b) P(A∩B)=P(A)+P(B)
   - (c) P(A∩B)=P(A)P(B)

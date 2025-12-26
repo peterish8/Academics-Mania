@@ -7,7 +7,7 @@
 
 ## 📝 Questions (10)
 
-- [ ] **Q1.** Which logical operation produces output "True" only when both inputs are "True"?
+- [x] **Q1.** Which logical operation produces output "True" only when both inputs are "True"?
   - (a) OR
   - (b) XOR
   - (c) AND
@@ -24,7 +24,7 @@
   > - AND: True AND True = True (both must be True)
   > - OR: True OR False = True (at least one True)
 
-- [ ] **Q2.** A set containing a finite number of elements is called:
+- [x] **Q2.** A set containing a finite number of elements is called:
   - (a) Infinite set
   - (b) Empty set
   - (c) Finite set
@@ -41,7 +41,7 @@
   > - Finite: {1,2,3}, {a,b}
   > - Infinite: Natural numbers, Real numbers
 
-- [ ] **Q3.** The middle value of an ordered data set is called:
+- [x] **Q3.** The middle value of an ordered data set is called:
   - (a) Mean
   - (b) Mode
   - (c) Median
@@ -58,7 +58,7 @@
   > - Odd n: Median = (n+1)/2 th term
   > - Even n: Median = average of n/2 and (n/2)+1 terms
 
-- [ ] **Q4.** The probability of an impossible event is:
+- [x] **Q4.** The probability of an impossible event is:
   - (a) 0
   - (b) 1
   - (c) −1
@@ -76,7 +76,7 @@
   > - Sure/Certain event: P = 1
   > - Any event: 0 ≤ P ≤ 1
 
-- [ ] **Q5.** The probability of a sure event is:
+- [x] **Q5.** The probability of a sure event is:
   - (a) 0
   - (b) 0.5
   - (c) 1
@@ -91,7 +91,7 @@
   > 
   > **Example:** Probability of getting a number ≤ 6 on a dice = 6/6 = 1
 
-- [ ] **Q6.** The set of all subsets of a set A is called:
+- [x] **Q6.** The set of all subsets of a set A is called:
   - (a) Universal set
   - (b) Power set
   - (c) Cartesian set
@@ -108,7 +108,7 @@
   > 
   > **Example:** A = {1,2} → P(A) = {∅, {1}, {2}, {1,2}} (4 subsets)
 
-- [ ] **Q7.** Which of the following is NOT a measure of central tendency?
+- [x] **Q7.** Which of the following is NOT a measure of central tendency?
   - (a) Mean
   - (b) Median
   - (c) Variance
@@ -125,7 +125,7 @@
   > - Central Tendency: Mean, Median, Mode (center of data)
   > - Dispersion: Variance, SD, Range (spread of data)
 
-- [ ] **Q8.** The complement of OR is:
+- [x] **Q8.** The complement of OR is:
   - (a) AND
   - (b) XOR
   - (c) NAND
@@ -143,7 +143,7 @@
   > - In other words: NOR outputs True only when BOTH inputs are False
 
 
-- [ ] **Q9.** Which logical connective represents biconditional?
+- [x] **Q9.** Which logical connective represents biconditional?
   - (a) →
   - (b) ∧
   - (c) ↔
@@ -162,7 +162,7 @@
   > - ∧ : AND
   > - ¬ : NOT
 
-- [ ] **Q10.** The Cartesian product A×B consists of:
+- [x] **Q10.** The Cartesian product A×B consists of:
   - (a) Sets
   - (b) Numbers
   - (c) Ordered pairs

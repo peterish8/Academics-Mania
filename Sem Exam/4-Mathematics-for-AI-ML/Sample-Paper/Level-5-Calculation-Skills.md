@@ -7,7 +7,7 @@
 
 ## 📝 Questions (10)
 
-- [ ] **Q41.** The coefficient of variation is defined as:
+- [x] **Q41.** The coefficient of variation is defined as:
   - (a) SD × Mean
   - (b) Mean / SD
   - (c) (SD / Mean) × 100
@@ -24,7 +24,7 @@
   > 
   > **Use:** Compare variability of different datasets
 
-- [ ] **Q42.** If SD = 4 and Mean = 20, coefficient of variation is:
+- [x] **Q42.** If SD = 4 and Mean = 20, coefficient of variation is:
   - (a) 10%
   - (b) 15%
   - (c) 20%
@@ -42,7 +42,7 @@
   > 2. CV = (4/20) × 100
   > 3. CV = 0.2 × 100 = 20%
 
-- [ ] **Q43.** The arithmetic mean of two numbers is 10 and their geometric mean is 8. The harmonic mean is:
+- [x] **Q43.** The arithmetic mean of two numbers is 10 and their geometric mean is 8. The harmonic mean is:
   - (a) 6.4
   - (b) 7.2
   - (c) 8.0
@@ -64,7 +64,7 @@
   > 2. HM = GM²/AM
   > 3. HM = 64/10 = 6.4
 
-- [ ] **Q44.** Which mean is used in speed–time problems?
+- [x] **Q44.** Which mean is used in speed–time problems?
   - (a) Arithmetic mean
   - (b) Geometric mean
   - (c) Harmonic mean
@@ -82,7 +82,7 @@
   > - GM: Growth rates, ratios
   > - HM: Rates, speeds
 
-- [ ] **Q45.** 8, 9, 12, 15, 20, 25. Find MD from Mean
+- [x] **Q45.** 8, 9, 12, 15, 20, 25. Find MD from Mean
   - (a) 5.17
   - (b) 5.94
   - (c) 4.78
@@ -107,7 +107,7 @@
   > 3. Sum = 6.83+5.83+2.83+0.17+5.17+10.17 = 31
   > 4. MD = 31/6 ≈ 5.17
 
-- [ ] **Q46.** If U={1,2,3,4,5}, A={2,4}, cardinality of n(A')?
+- [x] **Q46.** If U={1,2,3,4,5}, A={2,4}, cardinality of n(A')?
   - (a) 2
   - (b) 4
   - (c) 8
@@ -126,7 +126,7 @@
   > 3. A' = U - A = {1,3,5}
   > 4. n(A') = 3
 
-- [ ] **Q47.** If P(A)=0.7 and P(B)=0.2, A and B are mutually exclusive. Find P(A∪B):
+- [x] **Q47.** If P(A)=0.7 and P(B)=0.2, A and B are mutually exclusive. Find P(A∪B):
   - (a) 0.9
   - (b) 0.14
   - (c) 0.5
@@ -146,7 +146,7 @@
   > 2. Mutually exclusive ⇒ P(A∩B) = 0
   > 3. P(A∪B) = 0.7 + 0.2 = 0.9
 
-- [ ] **Q48.** If median=30, Q3=45, Q1=20, Find Bowley skewness.
+- [x] **Q48.** If median=30, Q3=45, Q1=20, Find Bowley skewness.
   - (a) 0.4
   - (b) 0.2
   - (c) 0.5
@@ -167,7 +167,7 @@
   > 3. SKB = (65 - 60)/25
   > 4. SKB = 5/25 = 0.2
 
-- [ ] **Q49.** If two events A and B are independent, then:
+- [x] **Q49.** If two events A and B are independent, then:
   - (a) P(A|B)=P(A)
   - (b) P(A|B)=P(B)
   - (c) P(A|B)=0
@@ -182,7 +182,7 @@
   > 
   > **Remember:** Independent ⇒ P(A|B) = P(A)
 
-- [ ] **Q50.** For a data set, the mean is 40 and the median is 35. What is the direction of skewness?
+- [x] **Q50.** For a data set, the mean is 40 and the median is 35. What is the direction of skewness?
   - (a) Symmetric
   - (b) Negative
   - (c) Positive

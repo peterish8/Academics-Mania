@@ -7,7 +7,7 @@
 
 ## 📝 Questions (10)
 
-- [ ] **Q31.** Which of the following is a measure of dispersion?
+- [x] **Q31.** Which of the following is a measure of dispersion?
   - (a) Mean
   - (b) Median
   - (c) Standard deviation
@@ -22,7 +22,7 @@
   > 
   > **Dispersion measures:** SD, Variance, Range, IQR
 
-- [ ] **Q32.** If the variance of a dataset is zero, then the data values are:
+- [x] **Q32.** If the variance of a dataset is zero, then the data values are:
   - (a) Highly scattered
   - (b) All equal
   - (c) Positively skewed
@@ -37,7 +37,7 @@
   > 
   > **Logic:** If all values = x̄, then (x-x̄)² = 0 for all x
 
-- [ ] **Q33.** Which graph is used to represent cumulative frequency?
+- [x] **Q33.** Which graph is used to represent cumulative frequency?
   - (a) Histogram
   - (b) Frequency polygon
   - (c) Ogive
@@ -52,7 +52,7 @@
   > 
   > **Types:** Less than ogive, More than ogive
 
-- [ ] **Q34.** Which logic gives output "False" only when both inputs are "True"?
+- [x] **Q34.** Which logic gives output "False" only when both inputs are "True"?
   - (a) AND
   - (b) OR
   - (c) NAND
@@ -67,7 +67,7 @@
   > 
   > **Truth:** NAND(T,T) = F, all other combinations = T
 
-- [ ] **Q35.** The complement of NAND is:
+- [x] **Q35.** The complement of NAND is:
   - (a) OR
   - (b) AND
   - (c) XOR
@@ -82,7 +82,7 @@
   > 
   > **Logic:** Complement of NAND = AND
 
-- [ ] **Q36.** If f(x)=2x+5, then f⁻¹(x) is:
+- [x] **Q36.** If f(x)=2x+5, then f⁻¹(x) is:
   - (a) (x−5)/2
   - (b) (x+5)/2
   - (c) 2x−5
@@ -102,7 +102,7 @@
   > 4. y = (x-5)/2
   > 5. f⁻¹(x) = (x-5)/2
 
-- [ ] **Q37.** If f(x)=x−4, then f⁻¹(x) is:
+- [x] **Q37.** If f(x)=x−4, then f⁻¹(x) is:
   - (a) x−4
   - (b) x+4
   - (c) 4−x
@@ -121,7 +121,7 @@
   > 3. y = x + 4
   > 4. f⁻¹(x) = x + 4
 
-- [ ] **Q38.** A function that is both one-to-one and onto is called:
+- [x] **Q38.** A function that is both one-to-one and onto is called:
   - (a) Into function
   - (b) Many-to-one function
   - (c) Bijective function
@@ -136,7 +136,7 @@
   > 
   > **Remember:** Bijective = perfect pairing (one-to-one correspondence)
 
-- [ ] **Q39.** If the mean of a data set is 20 and number of observations is 5, then the total sum of observations is:
+- [x] **Q39.** If the mean of a data set is 20 and number of observations is 5, then the total sum of observations is:
   - (a) 80
   - (b) 90
   - (c) 100
@@ -155,7 +155,7 @@
   > 1. Mean = 20, n = 5
   > 2. Sum = 20 × 5 = 100
 
-- [ ] **Q40.** Which distribution has zero skewness?
+- [x] **Q40.** Which distribution has zero skewness?
   - (a) Positively skewed
   - (b) Negatively skewed
   - (c) Symmetric

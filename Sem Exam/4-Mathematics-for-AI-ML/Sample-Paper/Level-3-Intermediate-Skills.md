@@ -114,7 +114,7 @@
   > 
   > **Formula:** Independent ⇒ P(A∩B) = P(A) × P(B)
 
-- [ ] **Q28.** If A = {1,2,3} and B = {4,5}, then n(A×B) equals:
+- [x] **Q28.** If A = {1,2,3} and B = {4,5}, then n(A×B) equals:
   - (a) 5
   - (b) 6
   - (c) 7
@@ -133,7 +133,7 @@
   > 1. |A| = 3, |B| = 2
   > 2. |A×B| = 3 × 2 = 6
 
-- [ ] **Q29.** If n(A)=3, then number of proper subsets of A is:
+- [x] **Q29.** If n(A)=3, then number of proper subsets of A is:
   - (a) 6
   - (b) 7
   - (c) 8
@@ -153,7 +153,7 @@
   > 2. Total subsets = 2^3 = 8
   > 3. Proper subsets = 8 - 1 = 7
 
-- [ ] **Q30.** The standard deviation is the square root of:
+- [x] **Q30.** The standard deviation is the square root of:
   - (a) Mean deviation
   - (b) Variance
   - (c) Range

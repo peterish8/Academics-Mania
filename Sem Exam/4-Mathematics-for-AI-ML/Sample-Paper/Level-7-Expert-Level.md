@@ -7,7 +7,7 @@
 
 ## 📝 Questions (10)
 
-- [ ] **Q61.** The number of elements in A×B if n(A)=4 and n(B)=3 is:
+- [x] **Q61.** The number of elements in A×B if n(A)=4 and n(B)=3 is:
   - (a) 7
   - (b) 12
   - (c) 16
@@ -24,7 +24,7 @@
   > 1. |A| = 4, |B| = 3
   > 2. |A×B| = 4 × 3 = 12
 
-- [ ] **Q62.** If events A and B are mutually exclusive, then:
+- [x] **Q62.** If events A and B are mutually exclusive, then:
   - (a) P(A∩B)=P(A)P(B)
   - (b) P(A∩B)=0
   - (c) P(A∪B)=0
@@ -39,7 +39,7 @@
   > 
   > **Remember:** Mutually exclusive ≠ Independent
 
-- [ ] **Q63.** The standard deviation of the data 2, 4, 6, 8 is:
+- [x] **Q63.** The standard deviation of the data 2, 4, 6, 8 is:
   - (a) 2
   - (b) 2.23
   - (c) 3
@@ -79,7 +79,7 @@
   > 4. = 8 + 3 + 1 + 1 + 6 + 8 = 27
   > 5. MD = 27/6 = 4.5
 
-- [ ] **Q65.** The geometric mean of 4 and 16 is:
+- [x] **Q65.** The geometric mean of 4 and 16 is:
   - (a) 8
   - (b) 10
   - (c) 12
@@ -96,7 +96,7 @@
   > 1. GM = √(4 × 16)
   > 2. GM = √64 = 8
 
-- [ ] **Q66.** The data having more values on right side is:
+- [x] **Q66.** The data having more values on right side is:
   - (a) Symmetric
   - (b) Negatively skewed
   - (c) Positively skewed
@@ -111,7 +111,7 @@
   > 
   > **Remember:** Skewness named by tail direction, not bulk
 
-- [ ] **Q67.** Which relation is both reflexive and transitive but not symmetric?
+- [x] **Q67.** Which relation is both reflexive and transitive but not symmetric?
   - (a) Equivalence
   - (b) Partial order
   - (c) Symmetric relation
@@ -126,7 +126,7 @@
   > 
   > **Example:** ≤ relation (reflexive, transitive, not symmetric)
 
-- [ ] **Q68.** The probability of drawing a face card from a deck is:
+- [x] **Q68.** The probability of drawing a face card from a deck is:
   - (a) 1/13
   - (b) 3/13
   - (c) 1/4
@@ -144,7 +144,7 @@
   > 2. Total = 52
   > 3. P = 12/52 = 3/13
 
-- [ ] **Q69.** The logical equivalence of (p→q) is:
+- [x] **Q69.** The logical equivalence of (p→q) is:
   - (a) p∧q
   - (b) ¬p∨q
   - (c) p∨q
@@ -159,7 +159,7 @@
   > 
   > **Truth table:** Both give same results
 
-- [ ] **Q70.** If Mean = Median, the distribution is:
+- [x] **Q70.** If Mean = Median, the distribution is:
   - (a) Positively skewed
   - (b) Negatively skewed
   - (c) Symmetric

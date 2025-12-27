@@ -7,7 +7,7 @@
 
 ## 📝 Questions (5)
 
-- [ ] **Q71.** The harmonic mean of 6 and 12 is:
+- [x] **Q71.** The harmonic mean of 6 and 12 is:
   - (a) 8
   - (b) 9
   - (c) 10
@@ -28,7 +28,7 @@
   > 3. = 2/(3/12)
   > 4. = 2 × 4 = 8
 
-- [ ] **Q72.** A bag contains 5 red balls and 7 blue balls. Two balls are drawn at random without replacement. Find the probability that both balls drawn are red.
+- [x] **Q72.** A bag contains 5 red balls and 7 blue balls. Two balls are drawn at random without replacement. Find the probability that both balls drawn are red.
   - (a) 4/33
   - (b) none
   - (c) 2/33
@@ -50,7 +50,7 @@
   > 4. P(both red) = (5/12) × (4/11)
   > 5. = 20/132 = 5/33
 
-- [ ] **Q73.** In a class of 80 students, 35 play cricket, 45 play football, and 15 play both. How many play neither?
+- [x] **Q73.** In a class of 80 students, 35 play cricket, 45 play football, and 15 play both. How many play neither?
   - (a) 16.5
   - (b) 14
   - (c) 16
@@ -70,7 +70,7 @@
   > 2. n(C∪F) = 35 + 45 - 15 = 65
   > 3. Neither = 80 - 65 = 15
 
-- [ ] **Q74.** Class Interval (x): 0–10, 10–20, 20–30, 30–40, 40–50, 50–60, 60–70  
+- [x] **Q74.** Class Interval (x): 0–10, 10–20, 20–30, 30–40, 40–50, 50–60, 60–70  
   Frequency (f): 4, 8, 14, 22, 18, 12, 6  
   Find Q₁, D₇, and P₉₀ for the following grouped data:
   - (a) Q₁: 26, D₇: 46.43, P₉₀: 58
@@ -99,7 +99,7 @@
   >    - L=50, CF=66, f=12, h=10
   >    - P₉₀ = 50 + [(75.6-66)/12]×10 = 50 + 8 = 58
 
-- [ ] **Q75.** Which of the following distributions has β₂ > 3?
+- [x] **Q75.** Which of the following distributions has β₂ > 3?
   - (a) Mesokurtic
   - (b) Platykurtic
   - (c) Leptokurtic
